@@ -2,7 +2,7 @@ import spacy
 import csv
 import os
 
-# Load spaCy model (requires download of appropriate language model)
+# Load spaCy model
 nlp = spacy.load('en_core_web_sm')
 
 # Load word list from file
