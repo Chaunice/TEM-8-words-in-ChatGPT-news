@@ -1,0 +1,49 @@
+If you read BuzzFeed between 2014 and 2019, chances are high that you took a quiz. You selected a picture of your favorite puppy, your ideal house and your favorite city, and BuzzFeed told you what Disney princess you were. The quizzes became something of a calling card for the company, which expanded to offer a wide range of content, including news-breaking features, a daily talk show streamed live on Twitter and even a line of branded kitchenware, during that time period.
+“Like or Pass on These Pop-Tart Flavors and We’ll Guess Your Relationship Status”: Yes, that is a 
+real quiz
+ from 2018 you can still take today.
+On Thursday, BuzzFeed announced that it was planning to use automated technology from OpenAI, the creator of the buzzy 
+ChatGPT
+ chat bot, to create content for the site. “In 2023, you’ll see AI inspired content move from an R&D stage to part of our core business enhancing the quiz experience, informing our brainstorming, and personalizing our content for our audience,” 
+Jonah Peretti
+, a co-founder of the company and its chief executive, wrote in a memo sent to staff members and published on the site. “In tough economic times, we need to fight for every penny of revenue, and try to save every penny of costs,” he added.
+In a private demonstration, BuzzFeed’s A.I.-powered quiz module wrote a paragraph for me about my own personalized secret society. I entered details like my name, a friend’s name and my most recent meal. (I picked pepperoni pizza.) The A.I. spit back a detailed description of the society, including an initiation ritual that involved eating copious amounts of pepperoni pizza. It was like a custom Mad Libs, if your book of Mad Libs were a bit more sentient. In this case, the A.I. — using a prompt created by a person — wrote a little story about a secret society with the words and proper names I’d supplied.
+“I think a lot of the really fun stuff is done by humans,” Mr. Peretti said when asked which parts of quiz creation were being handled by people and which were being automated. “Thinking of the concept of a secret society quiz, that’s something that our team came up with — thinking of what are the best questions to ask to get really interesting responses from the audience.” He also stressed that BuzzFeed’s readers were an important part of the process. “What you put into the quiz really has a big impact on what you get out,” he said.
+BuzzFeed’s stock more than doubled in value on Thursday after Mr. Peretti announced the A.I. news.
+“I try not to think too much about the stock, like when it goes up or goes down,” Mr. Peretti said. “I try not to be so emotionally invested in that, just because it’s not something that you can directly control.”
+When asked if BuzzFeed planned to use A.I. for journalism, Mr. Peretti said the company would consider it.
+“I think that anything that can elevate our journalism and the work of our journalists, we’d obviously consider,” he said. “Our focus for A.I. is to advance the mission of the company and the work that everyone’s doing. So if we’re using A.I. for journalism, it will be what our editor in chief of HuffPost or BuzzFeed News thinks is a good application for that team to advance what they’re doing.”
+He continued: “The sort of obvious use case I think people fear is the least interesting application, and not what we’re focused on at all, which is just like, have A.I. write articles instead of people. It’s, like, the quality of that will be lower. There’s nothing special or different about an article that is written by an A.I., except it’s probably worse.
+Editors’ Picks
+A Movie Confronts Germany’s Other Genocide
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+Continue reading the main story
+“Whereas with the quiz result, for all the reasons I just mentioned, it has all the creativity from our writers and from the audience, but then it’s totally personalized, and you never could write hundreds of thousands, or essentially an infinite number, of results without A.I.”
+A.I. quizzes are expected to begin appearing early next month.
+Former BuzzFeed employees were not surprised, though some had reservations about the new approach.
+As one former employee, Matthew Perpetua, said: “It just feels like a lot of what makes quizzes, or any content — whether it’s BuzzFeed or anything — what makes it really work the majority of the time is some kind of human touch, like some kind of soul to it. You know, an identifiable sense of humor.”
+Mr. Perpetua, 43, began working at BuzzFeed in 2012. He was most recently the site’s director of quizzes and games before being laid off in 2019. He now works in digital marketing at Fidelity Investments.
+“While I know on a spreadsheet level that quality is not necessarily what moves the bar, it is pretty clear that over time, these things become less relevant if they’re not really, like, exciting for people in a meaningful way,” Mr. Perpetua said. “And I think it’s much harder for the A.I. content to do that.”
+During his time in charge of quizzes, the company began encouraging BuzzFeed readers — referred to as community members — to make quizzes for the site for free.
+At first, that worked well. Community members were regularly generating new quizzes that were popular with readers at a significant scale.
+“But that ended up being kind of like the undoing,” Mr. Perpetua said, adding that about a year before he was laid off, he and others had realized, “Oh my God, the sheer volume of user-generated quizzes is bringing in enough traffic that it’s kind of like this big iceberg propping up the whole site.”
+He added, “I remember seeing these data visualizations, going like, ‘Wow,’ but also having the thing in my brain go, ‘Oh, this means that they’re probably not going to want to pay people to do this anymore if they do this for free,’ which is basically what happened.”
+One of those community creators was Rachel McMahon of Grand Rapids, Mich., who was a teenager at the time. According to a blog post Mr. Perpetua published after he had been laid off, Ms. McMahon was among BuzzFeed’s highest traffic drivers worldwide, making “
+dozens of quizzes every week
+.”
+In an interview with 
+New York Magazine
+ in 2019, Ms. McMahon estimated she had made just shy of 700 quizzes. “Like or Pass on These Pop-Tart Flavors and We’ll Guess Your Relationship Status” was her most popular work.
+“It’s like those, like, shower thoughts that humans have that are so weird and so out there,” Ms. McMahon, who went on to publish quiz books with Random House and Simon & Schuster, said of what makes a particular quiz resonate with readers. “I just don’t think ChatGPT can have shower thoughts.”
+At the end of 2018, BuzzFeed sent Ms. McMahon a package containing branded swag. “They told me I was the number-one user this year with all my views,” she told New York Magazine. Ms. McMahon, now 23 and working for Netflix, felt guilty at the time that her work as a community member could have affected the jobs of BuzzFeed employees. She stopped making quizzes in 2019.
+“I never had any delusions that the expertise that we were bringing to quiz making or list writing in the mid-2010s wasn’t expendable — I got laid off when I was 29, and that did not feel like a coincidence to me,” said Erin Chack, a former BuzzFeed senior editor who, like Mr. Perpetua, was laid off in 2019. “I started to age out of being culturally relevant, and they replaced me with a 23-year-old who they could pay half my salary, and it never hurt my feelings.”
+“This just feels kind of like an evolution of that same thing,” she added. “Like the Millennials got replaced by Gen Z, and now Gen Z is getting replaced by A.I.”
+“I see people online being like, ‘You could never paint the Sistine Chapel with A.I.,’” said Ms. Chack, who now works for Netflix. “I don’t think it’s that precious. I would not be surprised if these robots write wonderful, nuanced quizzes.” Ms. Chack, 33, started at the company in 2014.
+Still, some former employees feel something intangible, yet critical, is lost when you remove the human element from content creation. “I think now that the quizzes are so template-ized a robot probably could write a BuzzFeed quiz, but it’s going to be lacking the heart that we all really put into it back in the day
+,” 
+said
+ 
+Jen Lewis, a former senior illustrator who left the company in 2017. Ms. Lewis’s early design work would go on to become the colorful and widely recognizable style associated with BuzzFeed quizzes.
+Ms. Chack cited a quiz, created by a colleague at the time, Mackenzie Kruvant, in which users answered questions to find out which member of the Beatles they were. The twist was that the only possible outcome after answering the quiz was Ringo Starr. Every person who took the quiz, no matter what they answered, was told they were Ringo Starr.
+“I’m sure they will write successful quizzes,” Ms. Chack said of OpenAI. “I’m sure they will write quizzes that get clicked on. Will they write ‘Which Beatle Are You,’ and every answer is Ringo?”

@@ -1,0 +1,154 @@
+SIGN UP  
+Want this in your inbox each morning? 
+Get it sent to your inbox.
+Image
+Image
+A Silicon Valley stalwart teeters.
+Credit...
+Dado Ruvic/Reuters
+Tech’s big lender sparks a run on bank stocks 
+Shares in U.S. banks appear poised to slide again on Friday, after the sector suffered a 
+$52 billion sell-off
+ on Thursday, its worst drop in three years. Driving investor concerns is the 
+health of Silicon Valley Bank
+, one of the biggest lenders to tech start-ups, which is urgently raising cash to shore up its finances.
+Contagion concerns spooked the global markets on Friday, rattling stocks from Tokyo to London. Bank stocks were the hardest hit, but smaller lenders like SVB, which has funded start-ups worldwide, are viewed as being particularly vulnerable — and now face potentially serious threats to their survival.
+Blame interest rates for the mess.
+ As the Fed has raised rates to combat inflation, the value of bonds that banks hold as assets has fallen. That’s normally not a problem, until banks need to sell those holdings to cover customer withdrawals.
+In SVB’s case, the bank disclosed late on Wednesday that it had sold $21 billion of its most easily sellable investments — crystallizing a $1.8 billion after-tax loss — and borrowed $15 billion. It also announced plans to 
+raise $2.25 billion
+ through an emergency sale of stock. That news spurred customers to start pulling deposits; investors, already unnerved by the collapse of the crypto-focused lender Silvergate, followed suit, driving SVB’s stock down 60 percent on Thursday. It’s down about 40 percent in premarket trading on Friday.
+SVB’s efforts to restore calm are falling flat.
+ On a conference call on Thursday, the bank’s C.E.O., Greg Becker, urged venture capitalists to stick by a longtime financial partner. (The firm, which calls itself the “financial partner of the innovation economy,” offers banking, loans and wealth management services to start-ups, venture firms and tech workers.) But many of those investors weren’t reassured:
+Arjun Sethi of Tribe Capital advised companies to jump ship: “Almost by definition, any bank with a business model is dead if everyone moves,” he wrote in an internal memo, according to The Times.
+Peter Thiel’s Founders Fund, Coatue Management and Union Square Ventures also told their portfolio companies to switch banks, 
+according to Bloomberg
+.
+Other banks are scrambling to pick off clients. A smaller rival, Levro, said on Thursday that it had “an expedited processing/approval process for current SVB customers”; DealBook hears that bigger banks are also on the hunt.
+Still, other venture investors urged SVB clients to stay: A bank run “will feel like a big self own in hindsight,” tweeted 
+Roseanne Wincek of Renegade Partners
+.
+Meanwhile, investors have begun whispering about a potential bailout.
+ DealBook hasn’t confirmed any deal talks underway, but one focus of speculation is that Goldman Sachs might be a possible savior. Whether Goldman would want to step in, especially given that it’s weighing a potential sale of the buy now pay later lender GreenSky, is another matter. (The billionaire financier Bill Ackman offered another potential savior: 
+the federal government
+.)
+Other banks are also feeling the heat
+. Shares in Signature Bank fell 12 percent on Thursday, while those in Zions Bancorporation slid 11 percent. More broadly, the KBW Bank index, which tracks some of the world’s biggest lenders, fell nearly 8 percent on Thursday. The blowback has even crossed the Atlantic: Shares in France’s BNP Paribas were down 3 percent on Friday, while Germany’s Commerzbank was off 3.5 percent, and Deutsche Bank was down 7 percent.
+Editors’ Picks
+A Movie Confronts Germany’s Other Genocide
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+Continue reading the main story
+Image
+There are signs that some calm is returning to the market. An overnight rally in some intermediate-term bonds suggests that some investors believe that forced asset sales by banks are drawing to a close.
+Image
+HERE’S WHAT’S HAPPENING 
+Friday’s jobs report points to a slowdown in hiring.
+ Jittery investors will be watching the Bureau of Labor Statistics report closely for signs that wage growth, a key inflation indicator, is stabilizing. The data, which is forecast to show about 225,000 jobs were created last month, 
+will be released on Friday
+ at 8:30 a.m. Eastern.
+Apple faces a big shareholder vote on pay equity.
+ At Friday’s annual meeting, shareholders will 
+have their say
+ on whether the iPhone maker should report more data on racial and gender pay, a proposal pushed by activist investor Arjuna Capital, and supported by the fund manager Schroders.
+Donald Trump could face criminal charges over Stormy Daniels payment.
+ The Manhattan district attorney’s office has told the former president that he can 
+testify before a grand jury 
+that’s hearing evidence that he paid hush money to the porn star. It’s the strongest signal yet that prosecutors are nearing an indictment in the case.
+The Norfolk Southern C.E.O. apologizes for the Ohio train derailment.
+ In testimony before the Senate yesterday, Alan Shaw 
+said he was “deeply sorry”
+ about the incident. But the railway chief stopped short of offering to pay for long-term damage to the community of East Palestine, or endorsing rail safety legislation.
+A former Goldman Sachs banker behind the 1MDB fraud gets sentenced.
+ Roger Ng, a former managing director for Goldman in Asia, 
+will get 10 years in prison
+, a federal judge ordered yesterday, for his role in looting more than $4 billion from the 1Malaysia Development Berhad fund.
+Image
+A gun shop code misses a target 
+Credit card companies have 
+paused plans
+ to implement a gun merchant code designed to detect suspicious purchases of firearms and ammunition, after fierce Republican 
+pushback
+ in a number of states.
+American Express, Visa, Mastercard and Discover said yesterday that they couldn’t proceed, citing inconsistency over how the rule would be applied and legal uncertainty.
+The decision is a blow to gun control activists. 
+They see the code as a way to 
+prevent violence
+ by giving credit card companies a tool to spot dubious sales. Airlines and hotels already have their own codes, as do other industries. Activists and Amalgamated Bank had lobbied the Geneva-based International Organization for Standardization for the code and the credit card companies said they had no choice but to adopt the standard when it was approved in September. 
+Critics say that the code threatens gun owners’ rights and fosters corporate collusion.
+ Two dozen 
+state attorneys general wrote to the C.E.O.s
+ of American Express, Mastercard and Visa in September, arguing that it potentially violated consumer protection and antitrust laws. And Republican lawmakers in Mississippi and Florida have sought to ban banks and payment processors from using it.
+After the pause was announced, Montana Attorney General Austin Knudsen said in a statement that the code encouraged “coordination between corporations and government agencies to erode Americans’ fundamental right to keep and bear arms.”
+“We made a mistake. Our goal is not to have an A.I. that is biased in any particular direction.”
+— 
+Greg Brockman
+, a founder of OpenAI, the start-up that created ChatGPT, responding to criticism from Elon Musk and others that its chatbot had a liberal bias. Brockman told The Information that OpenAI had been too slow to allow users to customize ChatGPT’s behavior.
+ 
+The price of fighting E.S.G. 
+In the heart of America, officials tasked with managing states’ public employee pension funds are running the numbers on the wave of anti-E.S.G. bills coming out of their state capitals and increasingly concluding that they come at a steep cost.
+Kansas is the latest to reach that conclusion.
+ The Kansas Division of the Budget this week said 
+a bill
+ drafted by the state’s Republican legislators to divest state employees’ pension money from financial companies that use environmental, social and governance parameters to make investment decisions would be a big burden to the pensioners — reducing their returns by $3.6 billion over the next decade. On Wednesday, Alan Conroy, executive director of Kansas’s $25 billion public employees retirement system, asked state legislators 
+to scrap the bill
+.
+The state isn’t buying it. 
+“E.S.G.-driven funds usually deliver a much lower return on investment,” Kansas Attorney General Kris Kobach, who helped draft the pricey bill, 
+recently wrote
+ in Breitbart. (Investment data from Morningstar, and others, 
+contradict this analysis
+.)
+The tussle comes as state pensions are increasingly being thrust into the culture wars
+ — by both critics 
+and
+ champions of E.S.G. investing — at a time when many states are struggling to fund them. According to the Equable Institute, a pensions nonprofit, states — including Kansas — face a combined 
+funding shortfall of $1.4 trillion
+ for their pensions. It also comes as the E.S.G. investing debate seems certain to become a hot-button political issue ahead of the 2024 presidential campaign.
+Kansas isn’t alone.
+ In Wyoming, the House appropriations committee 
+unanimously rejected two anti-E.S.G. bills
+ last month after pension executives said they would be costly and confusing to implement. Sam Masoudi, Chief Investment Officer of the Wyoming Retirement System, told legislators that the proposed definition of E.S.G. from their bills is so broad as to bar investment in any Fortune 500 company. “Theoretically we wouldn’t be able to invest in a coal company, which I’m pretty sure is not the intent,” he said. (The Wyoming Retirement System and Mr. Masoudi did not respond to requests for comment.)
+Pension officials in Kentucky are opposing the state treasurer’s divestment demands, arguing that they would violate their fiduciary duty and mean 
+higher fees
+. A 
+similar feud
+ has emerged in West Virginia over an anti-E.S.G. bill there.
+Image
+THE SPEED READ 
+Deals
+FTX’s liquidators look to 
+sell its stake in Sequoia Capital
+ to an Abu Dhabi state-backed investment firm for $45 million. (Bloomberg)
+Russian oligarchs Mikhail Fridman and Petr Aven are reportedly set to 
+sell their stakes
+ in the country’s biggest private bank to help escape Western sanctions. (FT)
+The F.T.C. wants to 
+block
+ Intercontinental Exchange’s $13.1 billion acquisition of mortgage data vendor Black Knight. (Reuters)
+Policy
+Xi Jinping was 
+confirmed as China’s president
+ for an unprecedented third term. (NYT)
+The Senate 
+confirmed Daniel Werfel
+ to be the new commissioner of the I.R.S. (NYT)
+Sheikh Tahnoon bin Zayed al-Nahyan
+ has been appointed chair of the $790 billion Abu Dhabi Investment Authority, the emirate’s sovereign wealth fund. (FT)
+JPMorgan Chase was ordered to 
+turn over more documents
+ from C.E.O. Jamie Dimon in a lawsuit connected to the bank’s ties to Jeffrey Epstein. (Bloomberg)
+Best of the rest
+Money really does 
+buy happiness
+. (Insider)
+Japanese officials have arrested three people for their role in 
+a “sushi terrorism” stunt
+ they had hoped would go viral. (NYT)
+TikTok has reportedly hired SKDK, a top communications firm with close 
+connections to the Biden administration
+. (Politico)
+Image
+We’d like your feedback! Please email thoughts and suggestions to 
+dealbook@nytimes.com
+.

@@ -1,0 +1,66 @@
+You’re reading the Peter Coy newsletter, for Times subscribers only.  
+A veteran business and economics columnist unpacks the biggest headlines. 
+Get it with a Times subscription
+If artificial intelligence were going to cause mass unemployment, you would expect to see it happen first in the tech sector, where A.I. excels. To take just one example, 
+ChatGPT
+ is 
+pretty good
+ (
+not perfect
+) at generating code, fixing bugs and even building a website — doing in a few seconds what might take hours for a human programmer. Why bother hiring a person who has learned to think like a computer when you can employ a computer that thinks like a computer?
+In reality, there’s still huge demand for flesh and blood in the tech sector. In January the unemployment rate in computer and mathematical occupations was just 1.5 percent, well under half of the 3.9 percent for the overall work force, 
+according to
+ the Bureau of Labor Statistics (numbers not seasonally adjusted).
+This is a puzzle. Why does the world need so many techies when software is so capable? What are they doing with themselves all day, aside from playing video games and drinking kombucha? For answers, I spoke with four experts on the tech hiring scene. Their answers surprised me and gave me hope for the future of our species. (I say this with no disrespect to any artificial intelligence that’s reading this newsletter.)
+Nick Kolakowski, a senior editor at Dice, a platform for tech recruiting.
+There’s enormous demand for people who know how to work with big data, namely the terabytes of proprietary information that companies are learning to sift through for business insights, Kolakowski said. Those people include data scientists, data analysts, data engineers and data architects.
+The No. 1 skill listed in Dice’s 
+recent tech salary report
+ is MapReduce, which I admit I had never heard of. The average annual salary for people who know MapReduce was $146,672, up 9 percent from 2021. It turns out that MapReduce really is kind of cool. It allows for parallel processing, in which 
+20,000 servers
+ can work on a single problem at the same time. 
+A good way to make yourself feel clueless is to read all the other must-have skills that, unless you’re in tech, you probably know nothing about. Here are Nos. 2 through 12: Go/Golang, Elasticsearch, Chef, Apache Kafka, service-oriented architecture, Teradata, Redis, PAAS, Kubernetes, Containers and Amazon Route 53.
+Kolakowski said that companies need people who know how to make the best use of the powerful data-centric tools on that list. “You need someone who can look at raw numbers and say, ‘Based on my experience, this is what I think this data means for the future.’ That’s something you develop by being immersed in an industry,” he added.
+Adam Jackson, a founder of Braintrust, a decentralized talent network that runs on a blockchain.
+“All this buzz around ChatGPT, it’s mostly just sizzle,” Jackson said. “It’s not changing how companies hire.” He said people are irreplaceable for jobs that require understanding human needs, such as designing the user interface of a company’s website. People are also good for functions that are rapidly evolving — which make up a lot of the tech sector.
+“Technology never stops changing,” Jackson said. He cited the example of Apple’s CarPlay, which is software that auto manufacturers need to build in so customers can use their phones in the car. “The screen in a car will get upgraded every year. And the CarPlay will get upgrades every year. Everything’s on a constant cycle.” OK, I asked him, but what about setting a standard interface and sticking to it? “There’s no such a thing as a standard interface,” he answered.
+Editors’ Picks
+A Movie Confronts Germany’s Other Genocide
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+Continue reading the main story
+“There’s not a university in the United States that’s even aware of all these in-demand skills, much less teaching them,” Jackson said.
+Nick Bunker, the economic research director for North America at the Hiring Lab of Indeed, a big jobs site owned by Japan’s Recruit Holdings.
+What happens to demand for the hottest skills in tech will depend on how employers respond to the cooling of the economy, Bunker said. (Many economists predict a recession this year.) Employers could keep hiring so they’re at the bleeding edge coming out of the downturn or retrench and refocus on the products that are already making them money.
+I asked him what advice he could give to someone who’s just starting out in tech. He said people need to decide whether to try to be well rounded to appeal to a wide range of potential employers or to develop skills that are firm-specific (involving a product used only by, say, Amazon or Google or Oracle). Neither choice is obviously superior, he said.
+Allison Hemming, the chief executive of the Hired Guns, a tech-recruiting firm in New York.
+“Every few years, you get a bubble of new things coming out of tech that then infiltrate everything else,” she said. There was search, then social, then branded content and now data science and analytics.
+“Tech and digital have moved into every single industry and are no longer siloed in Silicon Valley,” Hemming said. Jobs in data analytics “are getting microcreated every day.” She told me to go to the jobs tab on LinkedIn and search for “data-driven” within 25 miles of New York. Sure enough, the range of employers seeking those skills was extreme, including TikTok, The Financial Times, Peacock (a unit of NBCUniversal), Morgan Stanley, Louis Vuitton and Madison Square Garden Sports.
+For employers, Hemming sometimes counsels flexibility “if a great candidate has only 70 percent or 80 percent of the skills you’re looking for but has the wattage to learn the rest.” Ambitious people often don’t even apply for jobs where they have 100 percent of the needed skills, she said, because “they don’t want to take a job where they do exactly the thing they did before.”
+For applicants, she said, junior people need to emphasize the skills they have as well as the ones they want to acquire. More senior people, she said, should focus on their “playbook,” namely the way they dealt with a big challenge in a previous job, such as a digital transformation.
+Jobs are ripe for automation when they are standardized and unchanging. As the four tech hiring experts I interviewed explained, jobs in the tech sector are anything but that.
+Elsewhere: A Clearer View of Global Value Chains
+In mid-March, the Bureau of Economic Analysis will release its second prototype report on how 
+global value chains
+ fit into U.S. trade. Like the first, which was issued in December 2021, it will reveal how much of the value of U.S. exports consists of imported materials, which U.S. industries are the most export-oriented and more. “This is the first significant move in expanding official statistics for use in enabling intelligent competitiveness policy,” Andrew Reamer, a research professor at George Washington University’s Institute of Public Policy, wrote in an email.
+The report coming out this month will cover 138 industries, up from 81 in the first run, and will segment U.S. trading partners into seven countries or clusters, up from five. To get a sense of what can be learned from this new resource, I made the chart below on the U.S. pharmaceutical industry — an export powerhouse — from data in the first prototype report.
+Image
+The chart shows that content from Europe grew to almost 11 percent of the value of U.S. exports by pharmaceutical and medicine manufacturers in 2020, from 3 percent in 2007. What’s harder to spot is that the most rapid increase is in content from China, which rose to 1.6 percent in 2020 (tied with Canada), from 0.1 percent in 2007. I also used the prototype data to calculate the changing composition of U.S. exports to China. In 2007, 85 percent of their value consisted of value added in the United States. By 2020, that had risen to 90 percent.
+Quote of the Day
+“Taking the time to engage with those furthest removed is what really embodies culture and what I try to do every day. See the unseen and see the people that really help build your company.”
+— Thasunda Brown Duckett, president and chief executive officer of TIAA, in an interview with the Stanford Graduate School of Business (
+2021
+)
+Thank you for being a subscriber
+Read past editions of the newsletter 
+here
+.
+If you’re enjoying what you’re reading, please consider recommending it to others. They can sign up 
+here
+. Browse all of our subscriber-only newsletters 
+here
+.
+Have feedback? Send me a note at 
+coy-newsletter@nytimes.com
+.
+Image

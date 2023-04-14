@@ -1,0 +1,187 @@
+SIGN UP  
+Want this in your inbox each morning? 
+Get it sent to your inbox.
+Image
+Image
+A chatbot is Google’s big new priority, according to Sundar Pichai.
+Credit...
+Caroline Brehman/EPA, via Shutterstock
+Everybody’s got a bot 
+Just over two months ago, OpenAI released ChatGPT to the public, instantly thrusting the A.I.-powered chatbot into the center of mainstream discourse, with debates about how it could transform business, education and more. (It also spurred Microsoft 
+to invest $10 billion
+ in OpenAI.)
+Now Google and the Chinese tech giant Baidu have unveiled their own chatbots, hoping to convince the world their efforts in so-called generative A.I. — tech that can spout off conversational text, make images and more — are just as ready for prime time.
+Meet Bard, Google’s forthcoming chatbot.
+ 
+The service
+, which will be privately tested before being released more broadly soon, is based on technology that the company has been testing for months. It’s Google’s latest response to ChatGPT, whose success spurred the tech giant to declare a “code red” and rush out its own A.I.-powered offerings.
+Google’s C.E.O., Sundar Pichai, made clear to employees in an internal memo, reviewed by CNBC, that 
+Bard is now a top priority
+. “Next week, we’ll be enlisting every Googler to help shape Bard and contribute through a special company-wide dogfood,” he wrote, referring to tech jargon for testing out a product internally.
+And meet Ernie, Baidu’s own offering.
+ Short for “Enhanced Representation through Knowledge Integration,” 
+the chatbot
+ is built on tech that Baidu said it has been working on since 2019. The Chinese tech company said that Ernie’s underlying generative A.I. incorporates huge swaths of data, which should make it more useful. Shares in Baidu jumped over 13 percent on the news, to their highest level in nearly a year.
+Other companies aren’t standing still.
+ Microsoft is expected to unveil something on Tuesday related to ChatGPT, with OpenAI’s chief, Sam Altman, 
+in attendance
+. And Meta, Facebook’s parent company, is figuring out 
+how to remind the world
+ of its own prowess in generative A.I., despite widespread criticism of products it had previously released. (Meanwhile, there are still 
+reminders
+ that generative A.I. 
+isn’t perfect
+.)
+DealBook asked ChatGPT itself whether OpenAI should be worried about the growing competition. Its answer:
+No, I am a language model without personal thoughts or emotions. My goal is to provide accurate and helpful responses.
+Image
+HERE’S WHAT’S HAPPENING 
+The F.T.C. won’t keep fighting a Meta deal in federal court.
+ The agency said it 
+wouldn’t try to overturn
+ a judge’s rejection of its case that Meta was eradicating potential future competition by taking over a virtual-reality start-up. The ruling was a blow to the F.T.C.’s Big Tech crackdown — but the agency said the judge had not dismissed the reasoning behind its lawsuit, which it could still test in other cases.
+SoftBank loses nearly $6 billion from investments.
+ The Japanese tech conglomerate reported a 
+$5.9 billion quarterly loss
+, driven by continued red ink at its Vision Funds and other investment funds. It was SoftBank’s first financial presentation not presided over by its founder, Masa Son.
+Editors’ Picks
+A Movie Confronts Germany’s Other Genocide
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+Continue reading the main story
+BP dials back its green transition plans.
+ In reporting its highest-ever annual profit, the British giant said its oil and gas output in 2030 would be 
+only 25 percent lower
+ than in 2019, having once promised a reduction of 40 percent. It’s the latest sign that soaring energy prices are tempting oil giants to keep pumping out fossil fuels despite pressure to focus on renewable energy.
+Disney nears a compromise with Florida over its special tax zone. 
+Under legislation proposed on Monday, Gov. Ron DeSantis would be able to 
+appoint all five board members
+ overseeing an arrangement that allows Disney World to tax itself to cover services like water, roads and firefighting. The confrontation arose over Florida’s so-called Don’t Say Gay bill.
+Adani Group rebounds as it pays off some debt.
+ Shares in the Indian conglomerate’s flagship firm, Adani Enterprises, surged 15 percent after the company agreed to 
+prepay $1.1 billion in loans
+. Still, the group has lost $115 billion in market value since an American short seller accused it of accounting fraud and stock manipulation.
+Image
+A meme-stock bailout 
+The ailing retailer Bed Bath & Beyond is hoping to ride the meme-stock wave to secure the rescue financing it needs to avoid bankruptcy. Rather than venture into the pricey corporate debt market, the company is planning to issue 
+about $1 billion worth of stock
+ that it will use to pay down debt and fund its business.
+Shares of Bed Bath nearly are
+ 
+up nearly 250 percent
+ since it warned of a possible bankruptcy filing 
+early last month
+. That rally is
+ 
+probably driven by retail investors looking to squeeze short sellers. Existing investors — who will be diluted by the flood of 
+900 million new shares
+ — were less excited by the news: the retailer’s shares were down more than 20 percent in the after market.
+Meme-stock darlings have tried this move before. 
+AMC, the movie-theater chain that has faced its own liquidity challenges recently, offered preferred shares 
+in August
+. (Both sets of AMC shares 
+have remained volatile
+.) In 2020, Hertz tried to sell shares 
+after
+ filing for bankruptcy, but the S.E.C. 
+squashed those efforts.
+As last-ditch moves go, it’s not a bad one. 
+Existing shareholders may prefer being diluted to a bankruptcy that wipes them out entirely. “If suddenly a golden goose has appeared on your doorstep and starts laying golden eggs — and you decide, well, I just don’t believe in golden geese, and I’m just going to ignore these geese and eggs on my doorstep — I’m not sure that’s the right call,” said Eric Talley, a professor of finance at Columbia Law School.
+Who is putting up the money? 
+Bed Bath & Beyond already has commitments for its offerings, though it is unclear who
+ 
+from. (There has been interest in the company: DealBook has reported that the private equity firm Sycamore 
+has looked
+ at buying parts of Bed Bath & Beyond, including Buy Buy Baby, as part of a possible bankruptcy deal.)
+There are still risks.
+ 
+Many of Bed Bath & Beyond’s 
+fundamental challenges remain
+, and an equity deal is unlike a leveraged buyout in one key way: If the company does go bankrupt, even preferred equity investors will be behind debt holders in the line to be paid back. But with investment firms 
+eager to put money to work,
+ and the leveraged loan market frozen, it may be the last best option.
+Business braces for Biden’s big speech
+President Biden will deliver his State of the Union address in a more hostile setting on Tuesday: the Republican-controlled House. For businesses, the political divisions could mean
+ 
+more uncertainty during turbulent times.
+Here’s what Biden is expected to say, and what businesses and economists will be listening for:
+Tax: 
+Biden 
+is expected
+ to call for a quadrupling of the tax paid on share buybacks, and push for new levies on high-income earners and businesses, all in an effort to reduce the deficit.
+Competition:
+ Antitrust will be a 
+focus of the speech
+. Cracking down on Big Tech is an area of bipartisan unity, but that doesn’t mean the parties will work together on it. Before tonight’s speech, the trade association TechNet, which includes Google, Apple and Meta, said it would like to see the president avoid “advocating for arbitrary legislation that would target America’s most successful companies.”
+Debt: 
+With a June default by the U.S. looming, Biden is expected to double down on raising the debt limit. He has been 
+talking to Speaker Kevin McCarthy
+, but apparently won’t discuss suggested spending cuts — a position that Americans seem to favor, 
+polls show
+. The president should be “willing to sit down and negotiate,” Suzanne Clark, C.E.O. of the U.S. Chamber of Commerce, wrote in a blog post, adding that “default is not an option.”
+Geopolitics: 
+With the spy balloon controversy lingering,
+ 
+the president will want to send a tough-on-China message — 
+without alienating Beijing
+. Businesses and investors increasingly see China exposure as a potential risk; the balloon saga even added a bit of 
+market volatility
+ earlier in the week.
+“If you let sewer rats in, you know that pestilence is going to come.” 
+— 
+Julie Inman Grant
+, Australia’s online safety commissioner, accusing Twitter of failing to remove child pornography despite Elon Musk’s vow to remove it.
+Trade like a lawmaker 
+On Tuesday, Subversive Capital Advisor 
+announced
+ that it has teamed up with Unusual Whales, the market data provider that has been monitoring trades connected to members of the U.S. Congress, to produce two new E.T.F.s that claim to track lawmakers’ stock holdings.
+The tickers: KRUZ for Republicans, NANC for Democrats. (We wonder 
+whom
+ they’re 
+referring to
+.)
+Here’s how the top stock holdings in each E.T.F. have fared:
+Image
+Image
+Worth noting: The benchmark S&P 500 is up 7.5 percent this year, but down 8.3 percent over the past year.
+Image
+THE SPEED READ 
+Deals
+CVS is reportedly 
+near a deal to buy Oak Street Health
+, a seniors-focused primary care provider, for $10.5 billion. (WSJ)
+Vox Media is close to raising 
+$100 million from Penske Media
+, the owner of Rolling Stone and Variety. (NYT)
+N.B.A. owners approved the $4 billion sale of the 
+Phoenix Suns and Mercury teams
+ to Mat Ishbia, the C.E.O. of United Wholesale Mortgage. (NYT)
+Independent Pet Partners
+, a roll-up of regional pet-care chains backed by TPG, has filed for bankruptcy protection. (Bloomberg)
+Policy
+“How 
+Russia is Surviving
+ the Tightening Grip on Its Oil Revenue.” (NYT)
+Donald Trump 
+wasn’t invited
+ to the Club for Growth’s annual donor retreat, a sign the anti-tax group is distancing itself from the former president. (NYT)
+Disney has reportedly 
+cut a Simpsons episode
+ which had made reference to “forced labor camps” in China from its streaming service. (FT)
+Best of the rest
+FTX’s new C.E.O., John Ray, 
+charged $690,000 in hourly fees
+ for running the bankrupt crypto exchange. (CoinDesk)
+Harvey Schwartz, Carlyle’s incoming C.E.O., is in line to 
+earn $180 million
+. (NYT)
+Kim Kardashian was reportedly 
+paid $1 million to speak
+ at a Miami hedge fund event. (Page Six)
+“Tesla’s Pickup Truck Is 
+Coming Soon. Maybe.
+” (NYT)
+Image
+We’d like your feedback! Please email thoughts and suggestions to 
+dealbook@nytimes.com
+.

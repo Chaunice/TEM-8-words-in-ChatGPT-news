@@ -1,0 +1,64 @@
+Almost six years ago, a Google computer program toppled the best player in China — and the world — at Go, an ancient Chinese board game. The defeat catalyzed China’s revolution in artificial intelligence. Beijing unrolled a monumental 
+A.I. plan
+, and investors poured record sums into new projects.
+Now, a similar moment has arrived: The 
+rise of ChatGPT
+ has kicked off another A.I. arms race, this time in the realm of machine-generated content. On Thursday, China’s first major rival to ChatGPT was unveiled in Beijing by the search giant Baidu. But the debut of the bot, called Ernie, was a flop.
+Halfway through a demonstration that had been marketed as live, in which Ernie summarized a science fiction novel and analyzed a Chinese idiom, Robin Li, Baidu’s chief executive, said the presentation had been prerecorded “to save time.”
+Baidu’s shares plunged 10 percent in Hong Kong, a striking contrast to the rally this year that was fueled by the company’s announcement that it has had a rival to ChatGPT in the works since 2019.
+The botched rollout comes as the likes of Baidu and Google rush to catch up with ChatGPT, whose maker released a new version this week. It was also a sign that China still has work to do to catch up with the United States in artificial intelligence, a race that has only intensified in recent years as relations between the two countries have deteriorated. As Washington has moved to contain competition from China, it has cut Beijing off from high-end computing chips — a key ingredient in technologies like ChatGPT and Ernie.
+A New Generation of Chatbots
+Card 1 of 5
+A brave new world. 
+A new crop of chatbots powered by artificial intelligence has ignited a scramble to determine whether the technology 
+could upend the economics of the internet
+, turning today’s powerhouses into has-beens and creating the industry’s next giants. Here are the bots to know:
+ChatGPT. 
+ChatGPT, the artificial intelligence language model from a research lab, OpenAI, has been making headlines since November for its ability to respond to complex questions, write poetry, generate code, 
+plan vacations
+ and translate languages. GPT-4, the latest version introduced in mid-March, 
+can even respond to images
+ (and ace the Uniform Bar Exam).
+Bing. 
+Two months after ChatGPT’s debut, Microsoft, OpenAI’s primary investor and partner, 
+added a similar chatbot
+, capable of having open-ended text conversations on virtually any topic, to its Bing internet search engine. But it was the bot’s occasionally inaccurate, misleading and 
+weird responses
+ that drew much of the attention after its release.
+Bard. 
+Google’s chatbot, called Bard, 
+was released in March
+ to a limited number of users in the United States and Britain. Originally conceived as a creative tool designed to draft emails and poems, it can generate ideas, write blog posts and 
+answer questions with facts or opinions
+.
+Ernie. 
+The search giant Baidu unveiled China’s first major rival to ChatGPT in March. The debut of Ernie, short for Enhanced Representation through Knowledge Integration, 
+turned out to be a flop
+ after a promised “live” demonstration of the bot was revealed to have been recorded.
+Because of enormous computing requirements, only a handful of companies, most based in either the United States or China, have the capacity to build bots that rely on what are known as large language models. Microsoft has poured billions of dollars into OpenAI, the maker of ChatGPT.
+Baidu’s bot, whose name comes from Enhanced Representation through Knowledge Integration, was to be open to some users starting Thursday.
+Ernie, Mr. Li insisted, was not a “tool for Sino-U.S. technology competition.” But he also acknowledged that ChatGPT’s success had accelerated the timeline for Baidu’s rollout.
+Editors’ Picks
+A Movie Confronts Germany’s Other Genocide
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+Continue reading the main story
+Image
+Mr. Li insisted Ernie bot isn’t a “tool for Sino-U.S. technology competition.”
+Credit...
+Ng Han Guan/Associated Press
+But even before Ernie’s underwhelming debut, many Chinese 
+wondered why
+, despite billions of dollars invested by their government and venture capitalists, the nation had not rebounded from its humbling in 2017, when Google’s AlphaGo program beat Jie Ke, the Go champion.
+“China is incredibly good at scaling an existing invention, but it is not very good at making breakthroughs,” said Huang Yasheng, a professor of management at the Massachusetts Institute of Technology and the author of a 
+coming book on Chinese innovation
+. The country, he argued, lacks the diversity of thought and free expression of ideas that help nurture out-of-the-box thinking.
+Last month, the Chinese authorities suspended ChatYuan, one of the earliest chatbots in China, for providing, among other things, answers that 
+challenged
+ the Communist Party’s official stance on Russia’s war in Ukraine.
+Xu Chenggang, a senior research scholar at the Stanford Center on China’s Economy and Institutions, had a harsher assessment of Beijing’s efforts to build a better bot.
+China’s chatbots “cannot approach the level of ChatGPT,” Mr. Xu said, because China’s strict censorship rules could undermine the quality of data and hamstring the development of chatbots.
+“If there are restrictions everywhere in the setup of your algorithms, of course its ability will be restricted,” he said.
+Chinese officials have also worked to temper expectations. Wang Zhigang, China’s minister of science and technology, used a soccer analogy this month to convey the work still left to do to compete with ChatGPT.
+“Playing football involves dribbling and shooting, but it’s not easy to be as good as Messi,” he said, referring to the superstar Lionel Messi.
+“Our country has also made a lot of arrangements and conducted research in this field for many years and has achieved some results,” he added. “However, it may still take some time to achieve the same level of performance as OpenAI.”

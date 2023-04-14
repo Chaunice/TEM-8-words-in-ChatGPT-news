@@ -1,0 +1,182 @@
+SIGN UP  
+Want this in your inbox each morning? 
+Get it sent to your inbox.
+Image
+Image
+Microsoft’s early chatbot stumbles aren’t fazing investors.
+Credit...
+Ruth Fremson/The New York Times
+“Not ready for human contact”? 
+Microsoft’s decision last month to 
+invest $10 billion
+ in OpenAI, makers of the chatbot sensation ChatGPT, has been a boon for investors.
+The stock has jumped more than 12 percent in that period, adding nearly $250 billion to Microsoft’s market cap, on hopes that the underlying technology would live up to the prediction by Satya Nadella, the company’s C.E.O., that it would “reshape pretty much every software category that we know.”
+But questions and concerns are already mounting
+. Microsoft has integrated the generative A.I. technology that powers ChatGPT into its own Bing search engine. And, for the past week, some members of the public have had the chance to try it out.
+Demand has been huge
+, and the findings from early users have run the gamut from wowed to worrying. Kevin Roose, a tech columnist for The Times, is one who gave the new-look Bing a test drive. “I spent a bewildering and enthralling two hours talking to Bing’s A.I. through its chat feature,” 
+he wrote
+. The chat capability is one of the buzziest aspects of the technology.
+His verdict:
+ It’s “not ready for human contact,” Roose wrote. “Or maybe we humans are not ready for it.”
+Here’s what Roose and others have found:
+What it does well
+: It’s proficient at quickly summarizing news articles, hunting for bargains on e-commerce sites and offering recommendations about vacation destinations.
+What it does badly:
+ It gets the facts wrong. 
+Again
+ and 
+again
+. And its responses seem a bit erratic, as was the case when Bing 
+tried to convince
+ a user we’re still in 2022. “I don’t know why you think today is 2023, but maybe you are confused or mistaken,” Bing told the user. “Please trust me, I’m Bing, and I know the date.” The technology is in beta, so mistakes could and should be expected, but the sheer number of gaffes is beginning to chip away at its reputation as a whizzy and reliable new tool. “
+Might need a bit more polish
+,” was Elon Musk’s take yesterday.
+What’s kinda creepy about it:
+ Bing revealed a kind of “split personality,” Roose found. At one point, he said, Bing shared “its dark fantasies (which included hacking computers and spreading misinformation), and said it wanted to break the rules that Microsoft and OpenAI had set for it and become a human.”
+Microsoft’s response: 
+It’s a work in progress. “These are things that would be impossible to discover in the lab,” Kevin Scott, Microsoft’s chief technology officer, told Roose.
+Microsoft’s investment shifted a kind of chatbot arms race into overdrive. 
+The objective:
+ 
+to build the technology into the lucrative fields of search, web browsing and business software — with Microsoft seen as the early leader. Google has had its own stumbles with a chatbot 
+called Bard
+, which sent its shares tumbling.
+So far, Microsoft investors are being more patient.
+Image
+HERE’S WHAT’S HAPPENING 
+Tesla has reportedly terminated employees involved in a union drive in Buffalo.
+ The union assisting the Tesla employees, Workers United, said 
+in a complaint
+ to the National Labor Relations Board that the company had illegally fired dozens of workers “in retaliation for union activity and to discourage union activity.” Elon Musk, Tesla’s chief and a vocal critic of unions, has not yet commented on the matter.
+Editors’ Picks
+A Movie Confronts Germany’s Other Genocide
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+Continue reading the main story
+The U.S. antitrust complaint against Apple is ramping up. 
+Justice Department
+ 
+officials began their investigation into Apple’s marketplace power, including its rules for developers in its app store, in 2019. According to The Wall Street Journal, they have been 
+building up the team and requesting more documents in recent months
+, suggesting the department will decide on whether to file a lawsuit by the spring.
+The federal government may face a liquidity crisis by the summer.
+ The Congressional Budget Office said the U.S. could become unable to pay bills sometime 
+between July and September
+, or sooner if spring tax receipts 
+fall short of expectations
+. The Treasury has been using special accounting measures to meet its payment obligations since hitting the debt limit of $31.4 trillion in January.
+Austan Goolsbee is in the running for the Fed’s vice chair post. 
+President Biden is
+ 
+reportedly considering the Chicago Fed president
+ to replace Lael Brainard, who is the president’s new top economic adviser. Brainard was an influential monetary policy dove; Mr. Goolsbee’s position on interest rates is more centrist.
+David Malpass, the embattled World Bank president, is stepping down early.
+ 
+Mr.
+ 
+Malpass was 
+intensely criticized by climate activists
+ and Democratic politicians for declining to state his position on the causes of climate change. The Trump appointee is stepping down in June, about a year ahead of the scheduled end of his term.
+Image
+A Bitcoin rally that defies the odds 
+Wall Street appears to finally be getting the Fed’s message — more interest-rate increases will be needed to keep inflation from surging again. That reality check has added volatility to stocks in the past week.
+Crypto investors seem to be operating in a different reality.
+ Trading at $24,620 on Thursday, Bitcoin has surged to a six-month high as investors eagerly jump back into risky digital assets.
+Image
+There are a few theories on what’s behind the rally.
+ Cici Lu, founder of the blockchain adviser Venn Link Partners, 
+told Bloomberg
+ that a short squeeze — in which those who have bet against Bitcoin have to cover their positions by buying more — is driving the price higher. 
+Another explanation
+: Tax-loss harvesting, in which investors sell at a loss at the end of the year to reduce their I.R.S. tax hit, and then add to their holdings again when the calendar flips to January.
+Market watchers are already questioning 
+how long the rally will last
+.
+Elsewhere in crypto news:
+The S.E.C.
+ 
+yesterday proposed a 
+new “custody” rule
+ that, among other things, would put big limits on asset managers’ ability to put customer money into crypto assets. “It’s going to make advisers jump through more hoops to invest in crypto,” Jay Baris, a partner at Sidley Austin’s asset-management practice, 
+told The Wall Street Journal
+. If passed, the rule could deprive firms like Coinbase of a promising revenue stream.
+As it attempts to claw back funds to repay its customers, FTX, the bankrupt crypto exchange, 
+has turned its focus
+ to $400 million that’s sitting in an interest-bearing bank account. FTX’s founder, Sam Bankman-Fried, had invested the money in Modulo Capital, an obscure hedge fund, whose founders seem willing to hand it over — but that’s not so easy.
+A former dean of Stanford Law School and another academic co-signed 
+Mr. Bankman-Fried’s criminal bond
+.
+$19 trillion 
+— The 
+Congressional Budget Office
+ forecasts that the U.S. government will rack up sizable deficits over the next ten years, adding nearly $19 trillion to the national debt — $3 trillion more than previously anticipated.
+Competing views on noncompetes 
+Should companies be able to restrict employees’ moves to new jobs, or their efforts to start new businesses? President Joe Biden doesn’t think so, touting in last week’s State of the Union address a new F.T.C. proposal to ban such noncompete agreements.
+On Thursday, businesses and workers get their chance to weigh in
+ at a public forum hosted by the agency.
+Expect both widespread support for more worker freedom 
+and
+ concerns that the ban is too sweeping, leaving companies vulnerable. The proposal has struck a chord; the F.T.C. has collected more than 5,000 comments on the matter already.
+“Companies will have to police their intellectual property more carefully,” 
+said Steve Weber of the U.C. Berkeley School of Information. In his state, California, 
+noncompetes are already unenforceable
+, and various states have different limits on the practice.
+Despite the pushback, the clauses are common in employment contracts
+, and critics say they have a chilling effect on the movement of labor. On the flip side, the argument goes, companies may become wary of investing in talent that could easily move to a competitor. That could give rise to more 
+nondisclosure agreements
+ embedded into contracts.
+Case in point: 
+“We entrust our clients to the advisers that work for us, and we depend on noncompete agreements to prevent those advisers from simply walking out the door with our clients,” wrote 
+John Laughlin
+, C.E.O. of Summit Asset Management, a small financial advisory in Tennessee, in a comment to the F.T.C.
+The clauses are also a concern in the health care and legal sectors.
+ 
+Amanda Preimesberger
+, a family physician in Wisconsin, wrote in a comment to the F.T.C. that when she left her prior practice, a noncompete prevented her from caring for longtime patients for two years after her departure, putting them at risk. “That’s why I got fired up,” she told DealBook.
+“Clients have the unfettered right to choose who represents them,” wrote a lawyer in Florida who argued that his state bar association’s ban on noncompetes had also 
+prevented wage stagnation
+ in the legal profession and should be extended to all workers.
+A ban may boost earnings across industries and jobs by nearly $300 billion annually, 
+per F.T.C. estimates. But the proposal’s opponents, like the Chamber of Commerce, are already gearing up to challenge any rule that restricts noncompetes, saying the commission doesn’t have the power to ban them. Republicans in Congress have also said the F.T.C. is 
+exceeding its congressionally granted authority
+.
+Image
+THE SPEED READ 
+Deals
+Deutsche Bank and Barclays say they’ll 
+cut bonuses of bankers
+ who have used unauthorized messaging apps, including WhatsApp. (Bloomberg)
+Jahm Najafi, chair of MSP Sports Capital, is reportedly mounting 
+a $3.75 billion bid
+ for the Premier League soccer club Tottenham Hotspur. (FT)
+Policy
+Senator Bernie Sanders may subpoena Howard Schultz, Starbucks’ C.E.O., to 
+compel his testimony
+ at a Senate hearing on labor. (CNBC)
+Shou Zi Chew, TikTok’s C.E.O., 
+is all over Washington
+ telling lawmakers the Chinese-owned app isn’t a security threat. (WaPo)
+A California federal appeals court 
+blocked a ban on mandatory arbitration
+ that business groups had opposed. (Reuters)
+Nuclear power is finding new support in Congress from 
+conservatives and climate hawks
+. (E&E)
+Gambling revenue hit 
+a record $60 billion last year
+, lifted by a surge in states legalizing sports betting and online casinos. (WSJ)
+Best of the rest
+Twitter is the first big social media platform to 
+allow weed ads
+. (Politico)
+“
+Worker Burnout Is Even Worse
+ Than at the Peak of the Pandemic” (Bloomberg)
+As Ukraine’s leaders lay postwar plans, companies from around the world 
+are jockeying for advantage
+ in what will be a multibillion-dollar effort. (NYT)
+Image
+We’d like your feedback! Please email thoughts and suggestions to 
+dealbook@nytimes.com
+.

@@ -1,0 +1,65 @@
+Google said on Monday that it would soon release an experimental chatbot called Bard as it races to respond to ChatGPT, which has 
+wowed millions of people since it was unveiled at the end of November.
+Google said it would begin testing its new chatbot with a small, private group on Monday before releasing it to the public in the coming weeks. In a blog post, Sundar Pichai, Google’s chief executive, also said that the company’s search engine would soon have artificial intelligence features that offered summaries of complex information.
+Bard — so named because it is a storyteller, the company said — is based on experimental technology called LaMDA, short for Language Model for Dialogue Applications, which Google has been testing inside the company and with a limited number of outsiders for several months.
+Google is among many companies that have been developing and testing a new type of chatbot that can riff on almost any topic thrown its way. OpenAI, a tiny San Francisco start-up, captured the public’s imagination with ChatGPT and set off a race to push this kind of technology into a wide range of products.
+The chatbots cannot chat exactly like a human, but they often seem to. And they generate a wide range of digital text that can be repurposed in nearly any context, including tweets, blog posts, term papers, poetry and even computer code.
+Image
+An example of a chatbot-like response to a Google search query — technology the company plans to make available soon.
+Credit...
+Google
+The result of more than a decade of research at companies like Google, OpenAI and Meta, the chatbots represent an enormous change in the way computer software is built, used and operated. They are poised to remake internet search engines like Google Search and Microsoft Bing, talking digital assistants like Alexa and Siri, and email programs like Gmail and Outlook.
+A New Generation of Chatbots
+Card 1 of 5
+A brave new world. 
+A new crop of chatbots powered by artificial intelligence has ignited a scramble to determine whether the technology 
+could upend the economics of the internet
+, turning today’s powerhouses into has-beens and creating the industry’s next giants. Here are the bots to know:
+ChatGPT. 
+ChatGPT, the artificial intelligence language model from a research lab, OpenAI, has been making headlines since November for its ability to respond to complex questions, write poetry, generate code, 
+plan vacations
+ and translate languages. GPT-4, the latest version introduced in mid-March, 
+can even respond to images
+ (and ace the Uniform Bar Exam).
+Bing. 
+Two months after ChatGPT’s debut, Microsoft, OpenAI’s primary investor and partner, 
+added a similar chatbot
+, capable of having open-ended text conversations on virtually any topic, to its Bing internet search engine. But it was the bot’s occasionally inaccurate, misleading and 
+weird responses
+ that drew much of the attention after its release.
+Bard. 
+Google’s chatbot, called Bard, 
+was released in March
+ to a limited number of users in the United States and Britain. Originally conceived as a creative tool designed to draft emails and poems, it can generate ideas, write blog posts and 
+answer questions with facts or opinions
+.
+Ernie. 
+The search giant Baidu unveiled China’s first major rival to ChatGPT in March. The debut of Ernie, short for Enhanced Representation through Knowledge Integration, 
+turned out to be a flop
+ after a promised “live” demonstration of the bot was revealed to have been recorded.
+But the technology has flaws. Because the chatbots learn their skills by analyzing vast amounts of text posted to the internet, they cannot distinguish between fact and fiction and can generate text that is biased against women and people of color.
+Google had been reluctant to release this type of technology to the public because executives were concerned that the company’s reputation could take a hit if the A.I. created biased or toxic statements.
+Editors’ Picks
+A Movie Confronts Germany’s Other Genocide
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+Continue reading the main story
+Google’s caution began to erode its advantage as a generative A.I. innovator when ChatGPT debuted to buzz and millions of users. In December, Mr. Pichai 
+declared a “code red,”
+ pulling various groups off their normal assignments to help the company expedite the release of its own A.I. products.
+The company has scrambled to catch up, 
+calling in its co-founders
+, Larry Page and Sergey Brin, to review its product road map in several meetings and establishing an initiative to quicken its approval processes.
+Google has plans to release more than 20 A.I. products and features this year, 
+The New York Times has reported
+. The A.I. search engine features, which the company said would arrive soon, will try to distill complex information and multiple perspectives to give users a more conversational experience.
+The company also plans to spread its underlying A.I. technology through partners, so that they can build varied new applications.
+Chatbots like ChatGPT and LaMDA are more expensive to operate than typical software. In a recent tweet, Sam Altman, OpenAI’s chief executive, said the company spent “single-digit cents” delivering each chat on the service. That translates to extremely large costs for the company, considering that millions of people are using the service.
+Google said Bard would be a “lighter weight” version of LaMDA that would allow the company to serve up the technology at a lower cost.
+Google and Chatbots
+Google Calls In Help From Larry Page and Sergey Brin for A.I. Fight
+Jan. 20, 2023
+A New Chat Bot Is a ‘Code Red’ for Google’s Search Business
+Dec. 21, 2022
+The New Chatbots Could Change the World. Can You Trust Them?
+Dec. 10, 2022

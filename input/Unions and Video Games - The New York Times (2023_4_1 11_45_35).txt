@@ -1,0 +1,227 @@
+You’re reading The Morning newsletter.  
+Make sense of the day’s news and ideas. David Leonhardt and Times journalists guide you through what’s happening — and why it matters. 
+Get it sent to your inbox.
+Tonight, tens of millions of Americans will wind down from a day of work or school with a leisure activity that did not exist a century ago: video games.
+Until fairly recently, games were considered a niche hobby, typically associated with children. But the industry has grown widely in recent decades. About two-thirds of Americans, most of them adults, 
+play video games
+. The video game industry 
+was worth nearly $200 billion
+ in 2021 — more than music, U.S. book publishing and North American sports combined. It employs hundreds of thousands of people in the U.S. alone.
+Some of you non-gamers are probably wondering why you should care. My answer is that the game industry’s story is a universal one, of a new business growing up and becoming a major cultural institution, one that hundreds of millions of Americans regularly engage with. It is similar to the rise of the movie industry or football over the past century. They are now cornerstones of American life that started as niche forms of entertainment.
+And similar to the types of abuses and tragedies in 
+Hollywood
+ or 
+the N.F.L.
+ that reverberate beyond fans of movies and sports, the game industry has also faced accusations of brutal work conditions, discrimination and harassment.
+The conditions have prompted more workers to move to unionize. This month, Microsoft recognized its first union after 
+video game testers organized
+. Today’s newsletter will look at how game developers are confronting problems that have entangled other companies, including Amazon and Starbucks, as workers push to shape a relatively new industry.
+“Game developers are not alone in this,” said Johanna Weststar, an expert on labor in the game industry at Western University in Ontario. “There’s been a rise in worker activism across many different sectors.”
+Unsafe workplaces
+A common refrain in the video game industry is that no one goes into it for the money; they could earn more doing similar jobs at other software companies, but instead passion drives them to games. Industry workers have accused employers of taking advantage of this devotion to allow poor conditions to flourish.
+“The impact so many games have had on me — I want to be part of giving that to someone else,” said Amanda Laven, a game tester at the company Activision Blizzard. “Corporate leadership know we’d rather be here testing a video game than another piece of software, so they can pay us way less.”
+Among the more criticized practices of the industry is “crunch,” when employees are pushed to work 60 to 100 hours a week for up to several months to hit a milestone on a project. Jason Schreier, a video game journalist, 
+highlighted the issue
+ in Times Opinion in 2017. While crunching, one programmer working on The Elder Scrolls V: Skyrim in 2011 ended up at an emergency room three times because of severe stomach pain. After he stopped crunching, the pain disappeared.
+Editors’ Picks
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+A Movie Confronts Germany’s Other Genocide
+Continue reading the main story
+Video game companies say that they sometimes need crunch to finish projects on time and on budget, but are 
+working to minimize their use of it
+. Workers like Laven argue that many companies have done too little and continue to overuse crunch.
+Activision Blizzard says it pays employees more than its competitors on average and tries to mitigate crunch by paying overtime, spreading hours among team members and expensing meals. “We care deeply for our employees,” said Joe Christinat, a spokesman for Activision Blizzard. “We don’t want any of them to feel like they have to make unfair sacrifices.”
+Another pervasive claim: gender-based discrimination and sexual harassment. In 2021, California sued Activision Blizzard for what the state described as the company’s “frat boy” culture in which women were underpaid and sexually harassed. Activision Blizzard said that the accusations were a misrepresentation of the company’s inner workings, and that it had taken steps to improve its culture in recent years.
+The accusations got a lot of attention, but those in the industry say the problems go beyond Activision Blizzard. Other big companies have also faced claims of discrimination and harassment, including Riot, Ubisoft and Sony. Those companies’ responses have ranged from saying they’re working to be more inclusive to dismissing some accusations.
+Schreier 
+has written
+ that many of these problems go back to the early days of the industry, when game developers facilitated “a frat-like image of boys who pulled all-nighters to make their games, pounding Diet Cokes and pizzas and who kept pictures of scantily clad women on their desks.” But as games have grown, workers’ expectations have changed.
+Image
+Blizzard Entertainment Headquarters in Irvine, Calif.
+Credit...
+Adam Amengual for The New York Times
+Moving to organize
+The conditions have driven more employees to try to unionize, including several studios at Activision Blizzard and Microsoft. Organizers told me that dozens more efforts are underway in the U.S., though most are not public yet. Most game developers support unionization, 
+a recent survey found
+.
+Companies have responded differently to the efforts. Microsoft 
+pledged neutrality
+ when its workers moved to unionize. Activision Blizzard (which Microsoft is trying to buy) 
+has tried to block
+ unionization drives.
+The push to unionize is part of a broader trend in relatively new industries, including tech and digital media. Spurred by what they see as poor conditions, many employees in those sectors have come to see unions as the best way to protect themselves. The total number of union members nationwide increased by nearly 300,000 last year, 
+my colleague Noam Scheiber wrote
+.
+Some workers described this drive as part of a process as the game industry is fairly new and still experiencing growing pains and professionalization. By leveraging the current moment, they hope to change the industry for good.
+“We are trying to help ourselves,” Laven said. “But we’re also trying to help everyone who comes after us.”
+Related:
+ The ability to work from home, create collective power and support co-workers are other reasons game developers gave for unionizing, 
+the gaming website Polygon reported
+.
+THE LATEST NEWS
+California Shootings
+A gunman killed at least 
+seven people in Half Moon Bay
+, the second mass shooting in California in three days.
+A suspect, believed to be a worker at an agricultural nursery, was found in his car in a sheriff’s office substation parking lot in the seaside town.
+In Monterey Park, where a gunman killed 11 people at a dance hall he knew well on Saturday, the authorities are 
+focusing on the theory
+ that he was driven by personal grievances.
+“They had parties every night”: The dance hall used to be a 
+dreamy refuge for immigrants
+.
+Politics
+Image
+Representative Ruben Gallego
+Credit...
+Anna Moneymaker/Getty Images
+Representative Ruben Gallego, a progressive Arizona Democrat, will 
+seek the Senate seat of Kyrsten Sinema
+, a Democrat turned independent, in 2024.
+Four members of the far-right Oath Keepers militia were 
+found guilty of seditious conspiracy
+ for trying to keep Donald Trump in office.
+A federal jury convicted an Arkansas man who 
+posed with his boot
+ on a desk in Nancy Pelosi’s office during the Capitol attack.
+Economy
+Americans are 
+welcoming slower inflation
+. Experts are split on how fast and how much it is cooling.
+In Egypt, inflation is so high that 
+eggs are a luxury
+.
+Spotify is 
+laying off about 600 employees
+, joining a wave of firings in the tech world.
+What’s behind the tech layoffs? One answer: The era of rock-bottom rates fueling $1 billion start-ups 
+has ended
+.
+Microsoft will invest 
+billions in OpenAI
+, the lab behind the A.I. bot ChatGPT.
+Other Big Stories
+Image
+Laying flowers at the statue of a Ukrainian poet in Moscow this month.
+Credit...
+Nanna Heitmann for The New York Times
+Some 
+Russians are protesting the war in Ukraine
+ by placing offerings near a statue of a Ukrainian poet.
+Prosecutors 
+charged a former top F.B.I. official
+ with helping a Russian oligarch.
+The Environmental Protection Agency 
+has not recovered
+ from an exodus of scientists during the Trump administration.
+The 
+trial of a South Carolina lawyer
+ charged with the murder of his wife and son began yesterday.
+The F.D.A. proposed to offer Americans 
+Covid boosters each fall
+, like flu shots.
+M&M’s said it would stop using its “spokescandies.” Figures on the political right, including Tucker Carlson, 
+have criticized the candy as “Woke M&M’s.”
+Opinions
+Jacinda Ardern put New Zealand on the geopolitical map, but she 
+failed to keep many of her promises
+,
+ Josie Pagani
+ says.
+Meghan Markle’s 
+makeup snafu
+ reflects an American truth: Sharing lip gloss is a bonding ritual, 
+Jessica Bennett 
+writes.
+MORNING READS
+Responsible fashion:
+ Two moms started a business 
+selling used children’s clothes
+.
+Cash cow:
+ Some dog walkers 
+are making six-figure salaries
+.
+Sauvignon wishes and sashimi dreams: 
+A road trip through 
+New Zealand
+.
+Advice from Wirecutter:
+ Clean your 
+dishwasher filter
+.
+Lives Lived:
+ Marion Meade’s biography of the sardonic critic Dorothy Parker, published in 1988, revived interest in Parker’s writing. Meade 
+died at 88
+.
+SPORTS NEWS FROM THE ATHLETIC
+On the field: 
+The Chiefs coach Andy Reid said that Patrick Mahomes 
+would play
+ in this weekend’s A.F.C. title game despite a high ankle sprain. 
+A trade:
+ Los Angeles 
+acquired wing help
+ in the form of the Wizards guard Rui Hachimura, who could provide a boost to a Lakers team treading water. 
+ARTS AND IDEAS 
+Image
+The Crown Room at Hallmark in the 1950s.
+Credit...
+Hallmark
+Empty chairs at empty tables
+Corporate cafeterias, long seen as a perk for white-collar workers who reported to the office five days a week, are 
+struggling to survive
+ in the era of hybrid schedules, Kim Severson writes in The Times.
+Some businesses have abandoned cafeterias in favor of subsidizing food delivery. Others have remodeled them into smaller, more flexible spaces, encouraging the informal gatherings that some workers see as the main benefit of coming to the office.
+Even old-school corporate dining has taken a hit. The Crown Room, at Hallmark’s headquarters in Kansas City, Mo., is one of the oldest and most beloved office cafeterias in the country. Now, it’s open just three days a week.
+PLAY, WATCH, EAT
+What to Cook
+Image
+Credit...
+David Malosh for The New York Times
+This 
+salmon dish cooks in 15 minutes
+ and creates a silky miso sauce that tastes lavish.
+What to Read
+Martin Riker’s novel “The Guest Lecture” details a tortured night 
+inside the head of a young economist
+.
+What to Watch
+“The Wandering Earth II,” the 
+sequel to China’s first major sci-fi blockbuster
+, lacks “all of the glee of its predecessor,” The Times’s reviewer writes.
+Late Night
+Wanda Sykes joked on “The Daily Show” about an 
+awkward eulogy by Trump
+.
+Now Time to Play
+Image
+The pangrams from yesterday’s Spelling Bee were 
+habitual
+ and 
+halibut
+. Here is 
+today’s puzzle
+.
+Here’s 
+today’s Mini Crossword
+, and a clue: Like a tired baby (five letters).
+And here’s 
+today’s Wordle
+. 
+Thanks for spending part of your morning with The Times. See you tomorrow. — German
+P.S. Enjoy 
+this video
+ of the Times reporter Katie Rosman’s dog, Gertie, skateboarding.
+Here’s 
+today’s front page
+. 
+“
+The Daily
+” is about Biden’s classified documents.
+Matthew Cullen, Lauren Hard, Lauren Jackson, Claire Moses, Ian Prasad Philbrick, Tom Wright-Piersanti and Ashley Wu contributed to The Morning. You can reach the team at 
+themorning@nytimes.com
+.
+Sign up here to get this newsletter in your inbox
+.

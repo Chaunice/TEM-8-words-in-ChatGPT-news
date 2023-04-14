@@ -1,0 +1,135 @@
+SIGN UP  
+Want this in your inbox each morning? 
+Get it sent to your inbox.
+Image
+Image
+The scene outside Silicon Valley Bank yesterday morning.
+Credit...
+Justin Sullivan/Getty Images
+A bid to reassure investors goes awry 
+The 
+failure of Silicon Valley Bank
+ was caused by a run on the bank. The company was not, at least until clients started rushing for the exits, insolvent or even close to insolvent. But banking is an enterprise that relies as much on confidence as on cash — and if that runs out, the game is over.
+The collapse may have been an unforced, self-inflicted error: The bank’s management chose to 
+sell $21 billion of bonds at a $1.8 billion loss
+, in large part, it appears, because many of those bonds were yielding an average of only 1.79 percent at a time when interest rates had risen drastically and the bank was starting to look like an underperformer relative to its peers. Moody’s was considering downgrading its rating. The bank’s management — with the help of Goldman Sachs, its adviser — chose to raise new equity from the venture capital firm General Atlantic and also to sell a convertible bond to the public.
+It isn’t clear if the bond sale or the fund-raising, at least initially, had been made under duress. It was meant to reassure investors. But it had the opposite effect: It so surprised the market that it led the bank’s very smart client base of venture capitalists to direct their portfolio clients to withdraw their deposits en masse.
+The bank and its advisers may have also made a tactical mistake: The General Atlantic equity investment could have been completed overnight, but the bank’s management also chose to sell convertible preferred stock, which couldn’t be sold until the next day. That left time for investors — and, more important, clients — to start scratching their heads and sow doubt about the firm, leading to an exodus of deposits.
+There will be a detailed post-mortem of the bank’s failure in the coming weeks and months. For now, it looks like the collapse could have been avoided — it happened because management bungled how it communicated to its customers and the public, and created a vacuum of confidence.
+But underlying the failure was a demonstrable problem, one to keep an eye on for other banks: The company had invested its deposits in low-interest rate bonds that it held on its books on a long-term “hold-to-maturity” basis. That means that it did not have to mark-to-market those bonds until they were sold, leaving investors with a somewhat distorted view of its balance sheet. So long as a bank doesn’t need to sell “hold-to-maturity” assets to meet withdrawal requests, there is no problem. But if a bank has to sell at a loss, that’s when things get complicated.
+We’re also likely to hear more from Washington about bank regulation. It appears that the bank’s management successfully lobbied regulators in 2015 to loosen rules that might have prevented it from taking some of the risks it did. The Lever news organization reported about 
+testimony that the company’s president
+ made to the Senate at the time seeking to weaken some rules.
+So far, Silicon Valley Bank seems like an outlier, given its unique circumstances and unusual client base — it had very few typical retail customers, as JPMorgan’s Michael Cembalest wrote in a note to investors on Friday. But there is already nervousness about some 
+other small and regional banks
+.
+In the immediate term, the most pressing problem this presents is for Silicon Valley itself: Venture capital firms that used the bank may 
+struggle to gain access to their money
+ — and possibly that of their limited partners, including pension funds, that had forwarded money intended for investments. This, in turn, may make it hard to fund current and new investments — or to rescue other companies inside and outside their portfolios. DealBook is already hearing about secondary sales of private shares to fund both businesses and individuals.
+Editors’ Picks
+A Movie Confronts Germany’s Other Genocide
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+Continue reading the main story
+Silicon Valley Bank may be finished but the fallout from its collapse is only just beginning to be felt. 
+— Andrew Ross Sorkin
+Image
+IN CASE YOU MISSED IT 
+JPMorgan Chase turns on a former star. 
+The Wall Street banking giant 
+sued Jes Staley
+, a former top executive, after accusing him of not fully informing the company about his ties to Jeffrey Epstein, the financier who died in federal custody in 2019 while awaiting trial on sex-trafficking charges. Mr. Staley has said he didn’t know about Mr. Epstein’s crimes and regrets the relationship.
+Game, set and private equity. 
+CVC 
+invested $150 million in the WTA
+, the private equity firm’s latest push into sports. The Luxembourg-based firm spent billions to acquire stakes in the commercial arm of La Liga, Spain’s leading soccer league; the Indian Premier League cricket competition; and the Six Nations rugby tournament. CVC sold its controlling stake in the Formula 1 racing competition to Liberty media in 2021.
+No more monkey business. 
+Hello Fresh, the
+ 
+German meal delivery service, said it would stop using coconut milk from Thailand over allegations that some suppliers were using 
+monkeys as forced labor
+, according to Axios. Retailers including Walmart, Costco, Target and Kroger previously stopped using some suppliers from Thailand, which accounts for about 80 percent of the coconut milk market in the United States.
+Image
+The indie studio poised for gold at the Oscars 
+Two billion-dollar blockbusters are in the running for best picture at tomorrow’s Academy Awards — “Avatar: The Way of Water” and “Top Gun: Maverick” — but the 
+favorite for the award
+ is the comparative commercial minnow “Everything Everywhere All at Once.”
+And nearly as likely to win the unofficial award for studio of the year is the one behind “Everything Everywhere,” A24, which could outdo the likes of Disney and Netflix in 
+racking up Oscars
+. A big night would cement the indie darling’s status as Hollywood’s top arbiter of cool — and award-winning — movies.
+It has been a decade in the making. 
+Founded in 2012 and named after 
+an Italian highway
+, A24 had the same ambitions as predecessors like Miramax: Produce critically lauded hits. But it has eschewed traditional marketing models in favor of social media-driven virality, with a slate of films that tended toward genres like horror or were made by up-and-coming directors. A24 has also maintained an aura of secrecy and quirkiness, which has helped stoke a 
+fiercely loyal following
+.
+The studio’s bet has paid off handsomely. It has put out a stable that includes prize-winners like “Moonlight,” “Room” and “Ex Machina” and buzzy titles like “Midsommar,” “Spring Breakers” and “The Lighthouse.” (The one hitch: None has ever 
+grossed even $108 million
+.) This year has been its best showing yet, with “Everything Everywhere” predicted to win many of the 11 awards for which the film has been nominated and other movies, including “Aftersun” and “The Whale,” also contenders for Oscar gold.
+Less known is A24’s well-heeled backing. 
+Behind its hipster trappings has always been some serious money. Daniel Katz, one of the founders, was head of film finance at the investment firm Guggenheim Partners, which provided seed money. A longtime backer is Eldridge, the conglomerate run by the billionaire Todd Boehly. And last year, the company 
+raised $225 million
+ at a $2.5 billion valuation, led by the investment firm Stripes and the asset manager Neuberger Berman.
+Where does A24 go from here?
+ The studio has been a frequent focus of sales talks. Tech giants like Apple and Amazon have been floated as potential buyers, as well as 
+financial players like Blackstone
+.
+The rub is what possible suitors think about spending on a studio whose movies have never been financial home runs, in an age of increasingly tight budgets. But one thing works in A24’s favor: For many cinephiles, there are movies — and then there are 
+A24
+ movies.
+In other Oscars news, The Times’s Brooks Barnes reports on how the Academy of Motion Picture Arts and Sciences is 
+rethinking the ceremony
+ to hold on to viewers — and preserve its own future. Here’s an interesting discussion from the Vulture podcast “Into It” about why the Oscars 
+aren’t rewarding blockbusters
+. And The New York Times Magazine took a deep dive into the brutal competition that is 
+Oscars campaign season
+.
+Image
+The Newsmaker: Bjorn Gulden, Adidas C.E.O. 
+Image
+“To be a professional athlete has always been my dream. So I never planned to be a C.E.O.”
+Credit...
+Heiko Becker/Reuters
+Adidas’s new C.E.O., Bjorn Gulden, confirmed this week that 2022 was a dud. The German sportswear giant swung to its first annual loss in 31 years.
+Mr. Gulden must tackle a problem left over from his predecessor: What to do with the 
+$1.3 billion mountain of unsold Yeezy sneakers
+ designed by the rapper Kanye West, the firm’s former business partner?
+He is a turnaround specialist.
+ He took over at Puma in 2013 and doubled sales over the next decade. That track record persuaded Adidas to recruit the 57-year-old Norwegian national in January to mastermind its own comeback. Gulden didn’t have to travel far; Puma and Adidas are based in the same Bavarian city, Herzogenaurach. The companies 
+were started by feuding brothers
+, Rudolf and Adolf Dassler, after World War II and have been rivals ever since.
+The top job at Adidas may be his biggest challenge yet.
+ Pulling out of Russia last year after Moscow’s invasion of Ukraine was costly, and sales are slipping in North America and China. Adidas’s decision in October to abruptly sever its business partnership with West — now known as Ye — will wipe 500 million euros off its bottom line.
+Mr. Gulden talked shoes and soccer on his first call with analysts as C.E.O.
+ Mr. Gulden was peppered with questions about the Yeezy shoes and his turnaround plan. (The latter is a work in progress, he said.) Gulden also spoke about his other great passion: soccer. In his youth, Mr. Gulden played professionally in Norway and for two years in Germany’s Bundesliga, for F.C. Nuremberg (just down the road from Adidas headquarters).
+In 
+a 2021 interview
+, Mr. Gulden reflected on his sporting career and where it had led him. “I got injured very early in my sports career,” he said. “To be a professional athlete has always been my dream. So I never planned to be a C.E.O. I think, when you love what you do, it cannot always be planned where you end up.” 
+4.34 million 
+— The number of jobs that U.S. employers have added over the past year, bringing the unemployment rate to 3.6 percent, according to Labor Department data released this week. Hiring has exploded even as the Federal Reserve has raised the prime lending rate from near zero to close to 5 percent. (Raising rates so aggressively usually has a chilling effect on hiring.)
+Image
+ON OUR RADAR 
+ChatGPT
+ wrote a 
+“M*A*S*H” episode
+ for Alan Alda and Mike Farrell, stars of the 1970s TV comedy, to read. 
+Did it work
+? (Clear+Vivid, N.Y.T.)
+TikTok
+, Shein, Temu — a number of Chinese brands are thriving in the United States despite the growing anti-Chinese sentiment. 
+Here’s how they’re doing it
+. (The Economist)
+“Did 
+Starbucks
+ Really 
+Put Olive Oil in Coffee
+?” (The New Yorker)
+Noam Chomsky
+ and his fellow linguists and philosophers Ian Roberts and Jeffrey Watumull compare the performance of ChatGPT with that of the human mind. 
+Their conclusion
+: The human mind is an “elegant system” that can do wonders with small bits of information. Chatbots, in contrast, are “lumbering” pattern-munchers. (N.Y.T. Opinion)
+Image
+Thanks for reading!
+We’d like your feedback. Please email thoughts and suggestions to 
+dealbook@nytimes.com
+.

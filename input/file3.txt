@@ -1,0 +1,22 @@
+We’ve compiled a list of phrases and concepts useful to understanding artificial intelligence, in particular the new breed of A.I.-enabled chatbots like ChatGPT, Bing and Bard.
+
+If you don’t understand these explanations, or would like to learn more, you might want to consider asking the chatbots themselves. Answering such questions is one of their most useful skills, and one of the best ways to understand A.I. is to use it. But keep in mind that they sometimes get things wrong.
+
+Bing and Bard chatbots are being rolled out slowly, and you may need to get on their waiting lists for access. ChatGPT currently has no waiting list, but it requires setting up a free account.
+
+Continue reading the main story
+Continue reading the main story
+Hallucination: A well-known phenomenon in large language models, in which the system provides an answer that is factually incorrect, irrelevant or nonsensical, because of limitations in its training data and architecture.
+
+Large language model: A type of neural network that learns skills — including generating prose, conducting conversations and writing computer code — by analyzing vast amounts of text from across the internet. The basic function is to predict the next word in a sequence, but these models have surprised experts by learning new abilities.
+
+Natural language processing: Techniques used by large language models to understand and generate human language, including text classification and sentiment analysis. These methods often use a combination of machine learning algorithms, statistical models and linguistic rules.
+
+Neural network: A mathematical system, modeled on the human brain, that learns skills by finding statistical patterns in data. It consists of layers of artificial neurons: The first layer receives the input data, and the last layer outputs the results. Even the experts who create neural networks don’t always understand what happens in between.
+
+Parameters: Numerical values that define a large language model’s structure and behavior, like clues that help it guess what words come next. Systems like GPT-4 are thought to have hundreds of billions of parameters.
+
+Continue reading the main story
+Reinforcement learning: A technique that teaches an A.I. model to find the best result by trial and error, receiving rewards or punishments from an algorithm based on its results. This system can be enhanced by humans giving feedback on its performance, in the form of ratings, corrections and suggestions.
+
+Transformer model: A neural network architecture useful for understanding language that does not have to analyze words one at a time but can look at an entire sentence at once. This was an A.I. breakthrough, because it enabled models to understand context and long-term dependencies in language. Transformers use a technique called self-attention, which allows the model to focus on the particular words that are important in understanding the meaning of a sentence.

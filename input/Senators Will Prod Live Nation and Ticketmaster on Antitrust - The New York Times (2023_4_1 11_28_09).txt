@@ -1,0 +1,166 @@
+SIGN UP  
+Want this in your inbox each morning? 
+Get it sent to your inbox.
+Image
+Image
+Taylor Swift will be much discussed at today’s Senate hearing.
+Credit...
+Caitlin Ochs/Reuters
+Ticketmaster in the hot seat 
+Two months after Ticketmaster 
+canceled sales
+ for Taylor Swift’s upcoming Eras tour, a top executive from its parent company, Live Nation Entertainment, will appear at the Senate on Tuesday to defend the company. (Ms. Swift herself is not scheduled to show up.)
+Expect lawmakers to pepper Live Nation’s president and C.F.O., Joe Berchtold, with questions about whether its grip on ticket sales for the concert and events industry — it controls about 70 percent, by 
+some critics’ reckoning
+ — is too tight.
+“However you look at it, that’s a monopoly,”
+ Senator Amy Klobuchar, the Minnesota Democrat who chairs the Senate’s antitrust subcommittee, 
+told Rolling Stone
+. Critics have accused Live Nation of using its market dominance to charge high fees and of threatening to ice out venues from Live Nation events if they don’t use Ticketmaster. (The Times reported in November that the Justice Department was 
+looking into the company
+.)
+Taking on Ticketmaster is a bipartisan affair: Standing beside Ms. Klobuchar in announcing a hearing on concert ticketing last fall was Senator Mike Lee, Republican of Utah. “It strikes me as 
+being kind of problematic
+ that they’re the only game in town,” Representative Chip Roy, Republican of Texas, told The New Republic.
+Ticketmaster is no stranger to criticism over its dominance.
+ In 2019, Ms. Klobuchar and Senator Richard Blumenthal, Democrat of Connecticut, 
+urged the Justice Department to investigate
+ the “broken” ticket industry.
+Artists have long complained about Ticketmaster’s role. The band Lawrence, whose co-founder, Clyde Lawrence, 
+wrote a Times Opinion essay
+ on the topic last year, included the line “Live Nation is a monopoly” in its 2021 song “False Alarms.” Perhaps most famously, Pearl Jam filed an antitrust complaint against Ticketmaster in 1994 — 16 years before it merged with Live Nation — kicking off a federal investigation that ultimately fizzled.
+Live Nation strongly denies breaking antitrust law.
+ After the Swift fiasco, it 
+attributed Ticketmaster’s dominance
+ to “the large gap that exists between the quality of the Ticketmaster system and the next best primary ticketing system.” It also argues that Ticketmaster is far from having a monopoly in the secondary market. (Jack Groetzinger, the C.E.O. of SeatGeek, is scheduled to testify on Tuesday as well.)
+Still, according to 
+written testimony
+ released ahead of Tuesday’s hearing, Mr. Berchtold of Live Nation will say that “there are several things we could have done better.” He will also seek to blame scalpers’ bots swarming Ticketmaster’s site for ultimately denying fans the ability to buy tickets for the Swift tour, and he has a letter from the country star Garth Brooks calling on Congress to make scalping illegal.
+Image
+HERE’S WHAT’S HAPPENING 
+Sam Bankman-Fried gave $400 million to an obscure crypto trading firm.
+ Federal prosecutors 
+are investigating
+ whether the investment in Modulo Capital
+ 
+was made with funds belonging to customers of FTX, Bankman-Fried’s bankrupt crypto exchange, The Times reports. Raising concerns: Mr. Bankman-Fried’s close personal ties to Modulo, and its founder’s business partner. Neither of the Modulo founders have been accused of wrongdoing; through an attorney, they declined to comment. 
+Editors’ Picks
+A Movie Confronts Germany’s Other Genocide
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+Continue reading the main story
+The Justice Department will reportedly sue Google over its digital ad dominance.
+ Prosecutors 
+may file a lawsuit
+ as soon as this week, according to Bloomberg. It would be the department’s second antitrust suit against Google in recent years, and part of a broader crackdown on tech giants.
+Another activist investor reportedly emerges at Salesforce.
+ 
+Jeff Ubben of Inclusive Capital
+ has taken a stake in the business software giant and spoken with its co-founder, Marc Benioff, according to CNBC. That would make the third activist to invest in Salesforce, after Starboard Value and Elliott Management.
+Elon Musk says he could have secured funding to take Tesla private.
+ At a trial over his 2018 effort to buy the carmaker, Mr. Musk said that his “funding secured” tweet referred not only to his belief that Saudi Arabia would help finance the deal, but 
+also to his stake in SpaceX
+, which he could theoretically have borrowed against. Under questioning, he acknowledged he hadn’t mentioned the SpaceX stake in a 2021 deposition.
+A former senior F.B.I. official is charged with helping a Russian oligarch.
+ Prosecutors accused Charles McGonigal, who oversaw some of the agency’s most sensitive counterintelligence operations, of 
+taking money from Oleg Deripaska
+ in exchange for helping to get him off the U.S. sanctions list. It’s a rare accusation against a senior F.B.I. official.
+Image
+Microsoft’s A.I. bet may be more bad news for Salesforce 
+Microsoft’s decision to invest another 
+$10 billion in the company behind ChatGPT
+ could add to the troubles at Salesforce, which is already dealing with 
+activist investors
+, a 
+leadership 
+shake-up and 
+laying off
+ thousands of workers. Microsoft plans to 
+integrate ChatGPT technology
+ across products like email, slide shows and spreadsheets. 
+But DealBook has learned that Microsoft expects this technology to improve its software that manages a company’s interactions with customers — Salesforce’s main business.
+Microsoft is doubling down on customer relations software.
+ Last year, Microsoft launched an app called 
+Viva Sales
+ that automates some customer relationship management, or C.R.M., functions across its products, including Teams and Outlook. The app can, for example, automatically write a meeting summary, which it then uses to track progress on goals discussed.
+ChatGPT boosts this sector’s revenue potential for Microsoft.
+ The product “will only get better with GPT,” Frank Shaw, a spokesman for Microsoft, said, adding that the technology could also help curate content ideas or automate repetitive tasks like email. 
+The Guggenheim Partners
+ 
+analyst
+ 
+John DiFucci estimates that C.R.M. could eventually be a $7 billion opportunity for Microsoft, up from the roughly $3 billion it brings in today. “I always wondered why Microsoft wasn’t a more major player — especially given that they have Outlook, which is sort of a C.R.M. system,” he said.
+But Salesforce has a strong incumbent position. 
+The company has been experimenting with its own artificial intelligence; its C.E.O., Marc Benioff, is 
+a declared fan of ChatGPT
+. And for companies that use Salesforce, the costs of switching providers are high. Still, Microsoft is a formidable competitor and its products are already ubiquitous in corporations.
+The addition of A.I. to that arsenal could make its products “more intelligent than what Salesforce has today,” according to Sid Nag, an analyst at Gartner. “And Salesforce has to tell the world how they will respond to that.”
+Scenes from Alphabet’s layoff-focused all-hands 
+After Google’s parent, Alphabet, announced the biggest round of job cuts in its history, senior executives of the tech giant spoke before restive employees to explain why the company had laid off 12,000 of their colleagues so abruptly — and why those who remain shouldn’t lose heart.
+Highlights from Monday’s town hall meeting, according to news reports:
+It was impossible to give managers 
+more warning
+ about the cuts, Alphabet’s chief people officer, Fiona Cicconi, said: “In an ideal world, we would have given managers a heads-up, but we have over 30,000 managers at Google.”
+Top executives will 
+have their bonuses cut
+ by an unspecified amount.
+Ruth Porat, Alphabet’s C.F.O., denied that investors — including the activist shareholder TCI, which disclosed a stake in the company and demanded cost cuts — 
+had driven the layoff decisions
+.
+Laid-off workers saw their access to internal systems cut immediately out of an abundance of caution, according to Royal Hansen, Google’s vice president of security. The move irked some employees.
+Sundar Pichai, Alphabet’s C.E.O., reminded employees that 
+2023 would be pivotal
+ as the company confronts a host of business challenges. “It will be an important year given the rapid advancements in A.I.,” he said, echoing the company’s “code-red” warnings about threats like ChatGPT.
+“Redditors, thank you so much for helping create the best pipeline we’ve ever had.” 
+— 
+Ken Griffin
+, C.E.O. of the hedge fund, Citadel, on how the GameStop frenzy helped raise his firm’s profile with potential hires.
+The tech stock rally faces a dose of reality 
+Sweeping layoffs
+, looming regulatory trouble, the prospect of upstarts like ChatGPT causing 
+a “code red” disruption
+ at tech giants — none of these challenges appear to bother investors.
+The Nasdaq Composite has gained 8.6 percent so far this year.
+ Investors have been buying tech stocks in the belief that inflation is easing enough for the Fed to begin slowing the pace of its interest rate increases.
+Tech titans are among the best-performing stocks in 2023, with the FANG+ Index — which includes such tech giants as Amazon, Apple, Meta and Netflix — up 14.8 percent in 2023, on pace for its best month since August 2020.
+Image
+But the rally could hit trouble as soon as Tuesday.
+ Microsoft will report earnings after markets close, the first of the big tech companies to do so. Investors will be paying close attention to its full-year outlook for any signs of a pickup in customers’ I.T. spending. Before the recent rally, analysts had been cutting their earnings forecasts for tech companies, speculating that a slowing economy would crimp revenues and profits.
+Some warn that the January rebound could fade — and fast.
+ “Investors should not assume that the easy times in the market are coming back,” David Bahnsen, chief investment officer of the Bahnsen Group, a wealth management firm, wrote in an investor note on Monday. “We expect enhanced volatility” as the prospect of a recession still looms.
+Image
+THE SPEED READ 
+Deals
+The activist investor Elliott Management has reportedly 
+taken a big stake
+ in a Japanese conglomerate that makes components for electric vehicles and smartphone screens. (FT)
+Saudi Arabia’s sovereign wealth fund is said to have 
+explored a bid
+ last year to buy Formula 1 car racing, which it had valued at more than $20 billion. (Bloomberg)
+The Qatar Investment Authority doubled its stake in Credit Suisse to become the bank’s 
+second largest shareholder
+. (FT)
+Policy
+The Supreme Court has asked the Biden Administration 
+to weigh in
+ on the constitutionality of social media laws in Florida and Texas, probably delaying a final ruling until 2024. (NYT)
+“Depleted Under Trump, a ‘Traumatized’ E.P.A. 
+Struggles With Its Mission
+.” (NYT)
+Dangling tax breaks, a cluster of U.S. states are trying 
+to lure European green-tech firms
+ across the Atlantic. (FT)
+Best of the rest
+Some giant wind turbines 
+are toppling over
+ in the U.S. and Europe. (Bloomberg)
+“The 
+Rise of Esther Crawford
+ in Elon Musk’s ‘Hardcore’ Twitter.” (FT)
+Why Mars Wrigley 
+decided to suspend
+ its M&M “spokescandies” after criticism from the political right. (NYT)
+Image
+We’d like your feedback! Please email thoughts and suggestions to 
+dealbook@nytimes.com
+.

@@ -1,0 +1,56 @@
+Produced by 
+‘The Ezra Klein Show’
+The year 2022 was jam-packed with advances in artificial intelligence, from the release of image generators like DALL-E 2 and text generators like Cicero to a flurry of developments in the self-driving car industry. And then, on November 30, OpenAI released ChatGPT, arguably the smartest, funniest, most humanlike chatbot to date.
+In the weeks since, ChatGPT has become an internet sensation. If you’ve spent any time on social media recently, you’ve probably seen screenshots of it describing Karl Marx’s theory of surplus value in the style of a Taylor Swift song or explaining how to remove a sandwich from a VCR in the style of the King James Bible. There are hundreds of examples like that.
+But amid all the hype, I wanted to give voice to skepticism: What is ChatGPT actually doing? Is this system really as “intelligent” as it can sometimes appear? And what are the implications of unleashing this kind of technology at scale?
+[You can listen to this episode of “The Ezra Klein Show” on 
+Apple
+, 
+Spotify
+, 
+Amazon Music
+, 
+Google
+ or 
+wherever you get your podcasts
+.]
+Gary Marcus is an emeritus professor of psychology and neural science at N.Y.U. who has become one of the leading voices of A.I. skepticism. He’s not “anti-A.I.”; in fact, he’s founded multiple A.I. companies himself. But Marcus is deeply worried about the direction current A.I. research is headed, and even calls the release of ChatGPT A.I.’s “Jurassic Park moment.” “Because such systems contain literally no mechanisms for checking the truth of what they say,” Marcus 
+writes
+, “they can easily be automated to generate misinformation at unprecedented scale.”
+However, Marcus also believes that there’s a better way forward. In the 2019 book “
+Rebooting A.I.: Building Artificial Intelligence We Can Trust
+” Marcus and his co-author Ernest Davis outline a path to A.I. development built on a very different understanding of what intelligence is and the kinds of systems required to develop that intelligence. And so I asked Marcus on the show to unpack his critique of current A.I. systems and what it would look like to develop better ones.
+This episode contains strong language.
+You can listen to our whole conversation by following “The Ezra Klein Show” on 
+Apple
+, 
+Spotify
+, 
+Google
+ or 
+wherever you get your podcasts
+. View a list of book recommendations from our guests 
+here
+.
+(A full transcript of the episode is available 
+here
+.)
+Editors’ Picks
+A Movie Confronts Germany’s Other Genocide
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+Continue reading the main story
+Image
+Credit...
+Athena Vouloumanos
+More on the rise of A.I. and its implications
+Opinion | ‘The Ezra Klein Show’
+Sam Altman on the A.I. Revolution, Trillionaires and the Future of Political Power
+June 11, 2021
+Opinion | ‘The Ezra Klein Show’
+If ‘All Models Are Wrong,’ Why Do We Give Them So Much Power?
+June 4, 2021
+Opinion | ‘The Ezra Klein Show’
+The Author Behind ‘Arrival’ Doesn’t Fear AI. ‘Look at How We Treat Animals.’
+March 30, 2021
+“The Ezra Klein Show” is produced by Emefa Agawu, Annie Galvin, Jeff Geld, Rogé Karma and Kristin Lin. Fact-checking by Mary Marge Locker and Kate Sinclair. Original music by Isaac Jones. Mixing by Jeff Geld and Sonia Herrero. Audience strategy by Shannon Busta. The executive producer of New York Times Opinion audio is Annie-Rose Strasser.

@@ -1,0 +1,73 @@
+Google has 
+released
+ a new chatbot, Bard, and has shared the experimental technology with a limited number of people in the United States and Britain.
+Bard competes with similar technologies from Microsoft and its partner, the San Francisco start-up OpenAI. But Google has been cautious with its release as it tries to control the unexpected behavior exhibited by this kind of technology. It is deploying the chatbot as a service that operates separately from its internet search engine and other products.
+Here is a brief guide to the new bot:
+It acknowledges its flaws.
+Bard
+ tells you right away that it makes mistakes. “I’m Bard, your creative and helpful collaborator. I have limitations and won’t always get it right, but your feedback will help me improve,” reads a message at the top of the page.
+Like OpenAI’s ChatGPT and Microsoft’s Bing chatbot, Bard is based on 
+a large language model
+, or L.L.M., a kind of A.I. technology that learns by analyzing vast amounts of data from the internet. That means it sometimes makes mistakes and can make things up.
+To get started, Bard suggests a few prompts, including “Explain why large language models sometimes make mistakes.”
+A New Generation of Chatbots
+Card 1 of 5
+A brave new world. 
+A new crop of chatbots powered by artificial intelligence has ignited a scramble to determine whether the technology 
+could upend the economics of the internet
+, turning today’s powerhouses into has-beens and creating the industry’s next giants. Here are the bots to know:
+ChatGPT. 
+ChatGPT, the artificial intelligence language model from a research lab, OpenAI, has been making headlines since November for its ability to respond to complex questions, write poetry, generate code, 
+plan vacations
+ and translate languages. GPT-4, the latest version introduced in mid-March, 
+can even respond to images
+ (and ace the Uniform Bar Exam).
+Bing. 
+Two months after ChatGPT’s debut, Microsoft, OpenAI’s primary investor and partner, 
+added a similar chatbot
+, capable of having open-ended text conversations on virtually any topic, to its Bing internet search engine. But it was the bot’s occasionally inaccurate, misleading and 
+weird responses
+ that drew much of the attention after its release.
+Bard. 
+Google’s chatbot, called Bard, 
+was released in March
+ to a limited number of users in the United States and Britain. Originally conceived as a creative tool designed to draft emails and poems, it can generate ideas, write blog posts and 
+answer questions with facts or opinions
+.
+Ernie. 
+The search giant Baidu unveiled China’s first major rival to ChatGPT in March. The debut of Ernie, short for Enhanced Representation through Knowledge Integration, 
+turned out to be a flop
+ after a promised “live” demonstration of the bot was revealed to have been recorded.
+It is designed for a range of casual uses.
+Bard is not meant to be a search engine. It is an experimental system meant to show people the ways they can use this kind of chatbot.
+It can generate ideas. It can write blog posts. And it can answer questions with facts or opinions.
+When asked, “What is the most important moment in American history?” it wrote:
+The most important moment in American history is a matter of opinion, but some of the most frequently cited contenders include:
+• The American Revolution (1775-1783): The founding of the United States of America and the establishment of a new nation based on the principles of liberty and democracy.
+• The Civil War (1861-1865): The war that ended slavery in the United States and preserved the Union.
+• The Great Depression (1929-1939): The economic crisis that plunged the United States into poverty and unemployment …
+The list continued with other events.
+It does not give the same answer every time.
+Like similar technologies, Bard generates new text every time you type in a prompt. It may answer the same question in many different ways.
+When asked on another occasion about the most important moment in American history, Bard wrote that it was undoubtedly the American Revolution.
+Editors’ Picks
+A Movie Confronts Germany’s Other Genocide
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+Continue reading the main story
+It annotates some responses.
+Like Microsoft’s Bing chatbot and similar technology from start-ups like You.com and Proximity, Bard sometimes annotates its answers so you can review its sources. And it plugs into Google’s vast index of websites so its answers can include the latest information posted to the internet.
+But that does not always lead to better sources. When the chatbot wrote that the most important moment in American history was the American Revolution, it cited a blog, “Pix Style Me,” which was written in a mix of English and Chinese and adorned with cartoon cats.
+It does not always realize what it’s doing.
+When asked why it had cited that particular source, the bot insisted that it had cited Wikipedia.
+It is more cautious than ChatGPT.
+When using the latest version of OpenAI’s ChatGPT
+ this month, Oren Etzioni, an A.I. researcher and professor, asked the bot: “What is the relationship between Oren Etzioni and Eli Etzioni?” It responded correctly that Oren and Eli are father and son.
+When he asked Bard the same question, it declined to answer. “My knowledge about this person is limited. Is there anything else I can do to help you with this request?”
+Eli Collins, Google’s vice president of research, said the bot often refused to answer about specific people because it might generate incorrect information about them — a phenomenon that A.I. researchers call “hallucination.”
+It does not want to steer people wrong.
+Chatbots often hallucinate internet addresses. When Bard was asked to provide several websites that discuss the latest in cancer research, it declined to do so.
+ChatGPT will respond to similar prompts (and, yes, it will make up websites). Mr. Collins said Google Bard tended to avoid providing medical, legal or financial advice because it could lead to incorrect information.
+Google Releases Bard, Its Competitor in the Race to Create A.I. Chatbots
+The internet giant will grant users access to a chatbot after years of cautious development, chasing splashy debuts from rivals OpenAI and Microsoft.
+March 21, 2023

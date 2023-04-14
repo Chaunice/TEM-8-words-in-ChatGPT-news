@@ -1,0 +1,98 @@
+This is the first in an occasional series of conversations in which The New York Times invites watchmakers, collectors and fans to discuss, well, almost anything they please.
+In 2020, when meetings and events were almost entirely virtual, Miles Fisher, a watch collector based in Los Angeles, turned to 
+Clubhouse
+, the social audio app, to indulge his passion for watch talk.
+One day in December of that year, Édouard Meylan, chief executive of H. Moser & Cie, a 195-year-old watchmaker based in the Swiss city of Schaffhausen, joined the chat. The men had exchanged messages on Instagram before, but Clubhouse afforded them their first opportunity to speak.
+“This was at the dawn of Clubhouse and Édouard was rather prolific in the most cool, accessible way,” Mr. Fisher recalled during a conversation with Mr. Meylan conducted in February over a video call. “I had sent him a note saying I couldn’t find a book on the history of Moser.
+“He was kind enough to send me not one but two books. And frankly, I have never experienced customer service like that.”
+That the two men connected on Clubhouse shortly after the app was introduced speaks to a quality they both share: Unlike their more traditional cohorts in the mechanical watchmaking industry, Mr. Meylan and Mr. Fisher are both early adopters of technology.
+In December, for example, H. Moser introduced a watch, the 
+Endeavour Centre Seconds Genesis
+, in the metaverse. The physical timepiece, at 27,000 Swiss francs ($29,300), features elements closely tied to the virtual world, including a 3-D-printed titanium crown and bezel that appears pixelated. It comes with digital perks and protections, such as early access to new products, unique artworks and certificates of authenticity, all stored on the blockchain.
+Editors’ Picks
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+A Movie Confronts Germany’s Other Genocide
+Continue reading the main story
+Image
+The Endeavour Centre Seconds Genesis from H. Moser & Cie comes with digital perks and protections.
+“The idea was to try to think what kind of value this technology could bring,” Mr. Meylan said. “That’s why we hand-engraved a QR code on the dial. It was provocative, and we like to be provocative.”
+Mr. Fisher is a provocateur of a different sort. A former actor with an uncanny resemblance to Tom Cruise, the 39-year-old coffee entrepreneur (in 2017, he co-founded the Bixby Roasting Company in Los Angeles) has made a name for himself on social media as the star of 
+Deeptomcruise
+.
+What Is the Metaverse, and Why Does It Matter?
+Card 1 of 5
+The origins. 
+The word “metaverse” describes a 
+fully realized digital world
+ that exists beyond the one in which we live. It was coined by Neal Stephenson in his 1992 novel “Snow Crash,” and the concept was further explored by Ernest Cline in his novel “Ready Player One.”
+An expanding universe. 
+The 
+metaverse
+ appears to have gained momentum during the 
+online-everything shift of the pandemic
+. The term today refers to a variety of experiences, environments and assets that 
+exist in the virtual space
+.
+Some examples. 
+Video games 
+in which players can build their own worlds
+ have metaverse tendencies, as does most social media. If you own a 
+non-fungible token
+, virtual-reality headset or some cryptocurrency, you’re also part of the metaversal experience.
+How Big Tech is shifting. 
+Facebook 
+staked its claim to the metaverse
+ last year, after shipping 10 million of its virtual-reality headsets and announcing 
+it had renamed itself Meta
+. 
+Google, Microsoft and Apple
+ have all been working on metaverse-related technology.
+The future. 
+Many people in tech believe the metaverse 
+will herald an era in which
+ our virtual lives will play as important a role as our physical realities. Some experts warn that it could still turn out to be a fad or 
+even dangerous
+.
+The parody account showcases deepfake videos that use artificial intelligence to transpose Mr. Cruise’s face onto Mr. Fisher’s body in real time. (The Belgian visual effects artist Chris Umé is Mr. Fisher’s partner in the endeavor; Mr. Umé is chief creative officer at Metaphysic, a company that generates A.I.-based content, where Mr. Fisher is director of entertainment.)
+“I thought, What if I totally envelop myself in this technology, just have fun?” Mr. Fisher said. “And it totally took off.”
+He and Mr. Meylan spoke about the potential of using deepfake technology to bring watchmakers of the past back to life, the real promise of NFTs and what A.I. might spell for the manufacturing and marketing of timepieces.
+Mr. Meylan joined the call from his office in Schaffhausen, and Mr. Fisher from his home in Los Angeles. The conversation has been edited and condensed.
+Miles, you’ve earned a big following online for your Deeptomcruise videos, where you’re often seen wearing a Swiss watch. Do people notice that?
+MILES FISHER
+ They do. There are a lot of comments. And it’s fun for me being passionate about watches with a nod to others who are fluent in that world.
+This technology is changing the visual grammar of storytelling. As powerful as it is, it’s obviously frightening. But with Deeptomcruise, it’s a very fun, silly content space. Each video is a perfect, three-act, 30-second jewel box, but the story and the sincerity of performance really matters. I love to wear some of the watches. It’s fun to do it with a wink; the audience is in on the joke.
+Image
+Édouard Meylan, chief executive of H. Moser & Cie.
+ÉDOUARD MEYLAN
+ Was having the audience be in on the joke part of the strategy?
+FISHER
+ If I’m being entirely honest with you, for me, it’s always been an art project. My entire adult life somebody has come up to me every day, and said, “Hey, has anyone ever told you you look like a young Tom Cruise?” It kind of ruined my acting career. And I developed a huge resentment.
+MEYLAN
+ You said it’s an art project, but I think it’s the beginning of something much bigger. Some people will try to commercialize the technology. How do you see it?
+FISHER
+ I see it as the next iteration of visual creativity. The big dream is you will be able, Édouard, to have a very sincere, hyper-real conversation with your great-great-grandparents.
+We need as much high-definition data of them as possible. But all these things bring up real ethical issues. We could right now have a real interview between Barack Obama and Martin Luther King Jr., it’s totally lifelike, but who writes the dialogue? Once something is hyper-real, it becomes real in people’s memory. We’ve seen that with Deeptomcruise — it just leaps over the uncanny valley.
+Édouard, would you ever try to use deepfake technology to have a conversation with your founder, Heinrich Moser?
+MEYLAN
+ I think so but it’s important not to become gimmicky. The big question would be: To say what? We have books and ideas of what those people were thinking. Does it add value?
+Heinrich Moser was a real person; he had his ideas, his thoughts, his charisma. And who would that be 200 years later? I could only speculate and I wouldn’t feel very comfortable doing that myself. But it could be fun to have me, as our current C.E.O., interacting with him, our original founder. And having some sort of artificial intelligence looking at the facts in our archives, maybe we could have a very interesting conversation.
+H. Moser has never shied away from daring, occasionally controversial experiments. In December, you introduced a mechanical watch in the metaverse that came with a host of digital perks. Why?
+MEYLAN
+ We felt the basis of this technology was really about security, authentication, trust and transparency. Certifying it’s a Moser watch, that it hasn’t been stolen, that it’s been serviced on these dates, and we can provide insurance, all stored on the blockchain.
+Maybe in 100 years, when people want to buy a watch or get a watch from their grandfather, there’s a little something that goes beyond the product. And that’s why we created the time capsule NFT, in which we document the actual birth of the watch. It’s me, I have the local newspaper from Schaffhausen, we have an atomic clock behind me, we have the master watchmaker putting the last screws in. And we see the watch come to life. I don’t know if it’s going to be fun for someone 100 years from now, but it’s fun for me.
+FISHER
+ It’s so cool and bold. Where to start? The promise of NFTs and blockchain is to be able to show provenance. We do this in real life. “Do you know who owned these rare sneakers before me? I bought them from a famous athlete.” It’s just how humans behave. It’s an extra patina, and it’s very, very special. And what product brings that to light in a more personal way than watches?
+Insofar as the metaverse, you have to meet the customer where they are. The metaverse continues to evolve. What we do know is the future of the internet will increasingly be visual. To Édouard’s point, I think it’s really cool to have a world in the metaverse where people can come together and communicate in a shared way. But who cares about what you wear in the metaverse? What you should be wearing is your real face. There is something about a human hyper-real face that’s hard-wired into us to trust. It’s very hard to do real business and commerce with Sexyunicorn425.
+We haven’t touched on crypto yet. A lot of people bought luxury watches when the market for Bitcoin and other cryptocurrencies was riding high, and then came the collapse last May. What have you learned?
+MEYLAN
+ We can probably learn a lot in the way we manage our industry. Sometimes in the watch industry, we like to ride the waves as high as possible. It’s natural: We want to create jobs and wealth. But there’s a risk of crashing; that’s very relevant nowadays.
+A lot of brands don’t really know the value of their products. There’s been a lot of liquidity injected into the world, especially in the U.S. market, so a lot of people have been buying watches. Many of us don’t know what is the actual demand for our products. We have so many orders with completely insane numbers, but is that real? We learned from what happened with crypto that we have to be extremely pragmatic.
+FISHER
+ I’m less a part of the crypto conversation, but I do find it’s pertinent here. You get a lot of people who are going to buy watches for the social cache or the implied social stratification that they offer. And of course there have been a lot of watches going back to the secondary market. But overall, I think it helps build the watch infrastructure.
+We’re talking about these technologies — A.I., ChatGPT, deepfakes — in an industry that is as traditional as they get. Do we see watchmakers embracing A.I.?
+MEYLAN
+ It’s tough to tell. We’re a small company at Moser so not the best example or the right size to embrace A.I. at full-scale potential. We’re talking big data, that’s the big thing. Knowing how to manage it is very difficult, and A.I. can help us in so many ways — in better knowing your customers and better anticipating their needs. But that’s anti-Moser. I always say, I don’t want to know what my customers want, I want to surprise them, to create something where they say, “What the hell is this?” And then two years later, they come back and say they love it.
+If we all use A.I., aren’t we going to create clones of each other? At some point, you could develop your entire production based on A.I.: “I’d like to know the perfect launches for Moser in 2024, the five key models, and what the right price they should be positioned at and in what material and what quantities to sell them.”
+FISHER
+ What I think is really interesting is what Édouard was saying about it being very un-Moser, and I would lean into that. A.I. stands for authentic intelligence, which is something you can’t buy: generation after generation after generation of know-how. That is heritage which can’t be acquired for any price. And that, indeed, is very rare.

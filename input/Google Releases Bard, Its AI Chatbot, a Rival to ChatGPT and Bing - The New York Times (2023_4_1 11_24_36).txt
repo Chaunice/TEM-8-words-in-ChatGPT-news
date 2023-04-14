@@ -1,0 +1,96 @@
+For more than three months, Google executives have watched as projects at Microsoft and a San Francisco start-up called OpenAI have stoked the public’s imagination with the potential for artificial intelligence.
+But on Tuesday, Google tentatively stepped off the sidelines as it released a chatbot called Bard. The new A.I. chatbot will be available to a limited number of users in the United States and Britain and will accommodate additional users, countries and languages over time, Google executives said in an interview.
+The cautious rollout is the company’s first public effort to address the recent chatbot craze driven by OpenAI and Microsoft, and it is meant to demonstrate that Google is capable of providing similar technology. But Google is taking a much more circumspect approach than its competitors, which have faced criticism that they are proliferating an unpredictable and sometimes untrustworthy technology.
+USING BARD
+How does Google’s chatbot 
+compare with ChatGPT and others
+?
+Still, the release represents a significant step to stave off a threat to Google’s most lucrative business, its search engine. Many in the tech industry believe that Google — more than any other big tech company — has a lot to lose and to gain from A.I., which could help a range of Google products become more useful, but could also help other companies cut into Google’s huge internet search business. A chatbot can instantly produce answers in complete sentences that don’t force people to scroll through a list of results, which is what a search engine would offer.
+Image
+Bard is a stand-alone webpage featuring a question box.
+Credit...
+via Google
+Google started Bard as a webpage on its own rather than a component of its search engine, beginning a tricky dance of adopting new A.I. while preserving one of the tech industry’s most profitable businesses.
+A New Generation of Chatbots
+Card 1 of 5
+A brave new world. 
+A new crop of chatbots powered by artificial intelligence has ignited a scramble to determine whether the technology 
+could upend the economics of the internet
+, turning today’s powerhouses into has-beens and creating the industry’s next giants. Here are the bots to know:
+ChatGPT. 
+ChatGPT, the artificial intelligence language model from a research lab, OpenAI, has been making headlines since November for its ability to respond to complex questions, write poetry, generate code, 
+plan vacations
+ and translate languages. GPT-4, the latest version introduced in mid-March, 
+can even respond to images
+ (and ace the Uniform Bar Exam).
+Bing. 
+Two months after ChatGPT’s debut, Microsoft, OpenAI’s primary investor and partner, 
+added a similar chatbot
+, capable of having open-ended text conversations on virtually any topic, to its Bing internet search engine. But it was the bot’s occasionally inaccurate, misleading and 
+weird responses
+ that drew much of the attention after its release.
+Bard. 
+Google’s chatbot, called Bard, 
+was released in March
+ to a limited number of users in the United States and Britain. Originally conceived as a creative tool designed to draft emails and poems, it can generate ideas, write blog posts and 
+answer questions with facts or opinions
+.
+Ernie. 
+The search giant Baidu unveiled China’s first major rival to ChatGPT in March. The debut of Ernie, short for Enhanced Representation through Knowledge Integration, 
+turned out to be a flop
+ after a promised “live” demonstration of the bot was revealed to have been recorded.
+“It’s important that Google start to play in this space because this is where the world is headed,” said Adrian Aoun, a former Google director of special projects. But the move to chatbots could help upend a business model reliant on advertising, said Mr. Aoun, who is now the chief executive of the health care start-up Forward.
+In late November, OpenAI released 
+ChatGPT
+, an online chatbot that can answer questions, write term papers and riff on almost any topic. Two months later, the company’s primary investor and partner, Microsoft, 
+added a similar chatbot to its Bing internet search engine
+, showing how the technology could shift the market that Google has dominated for more than 20 years.
+Editors’ Picks
+A Movie Confronts Germany’s Other Genocide
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+Continue reading the main story
+Google has been racing to ship A.I. products since December. It declared a “
+code red
+” in response to ChatGPT’s release, making A.I. the company’s central priority. And it spurred teams inside the company, including researchers who specialize in studying the safety of A.I., to collaborate to speed up the approval of a wave of new products.
+Industry experts have wondered how quickly Google can develop new A.I. technology, particularly given OpenAI and Microsoft’s breakneck pace in releasing their tools.
+“We are at a singular moment,” said Chirag Dekate, an analyst at the technology research firm Gartner. ChatGPT inspired new start-ups, captured the public imagination and prompted greater competition between Google and Microsoft, he said, adding, “Now that market demand has shifted, Google’s approach has, too.”
+Last week, OpenAI tried to up the ante with 
+newer technology called GPT-4
+, which will allow other businesses to build the kind of artificial intelligence that powers ChatGPT into a variety of products, including business software and e-commerce websites.
+Image
+The chatbot can get facts wrong or makes up information without warning — a phenomenon A.I. researchers call hallucination.
+Credit...
+via Google
+Google has been testing the technology underlying Bard since 2015, but has so far not released it beyond a small group of early testers because, like the chatbots offered by OpenAI and Microsoft, it does not always generate trustworthy information and 
+can show bias against women and people of color
+.
+“We are well aware of the issues; we need to bring this to market responsibly,” said Eli Collins, Google’s vice president for research. “At the same time, we see all the excitement in the industry and the excitement of all the people using generative A.I.”
+Mr. Collins and Sissie Hsiao, a Google vice president for product, said in an interview that the company had not yet determined a way to make money from Bard.
+Google announced last week that A.I. was coming to its productivity apps like Docs and Sheets, which businesses pay to use. The underlying technology will also be on sale to companies and software developers who wish to build their own chatbots or power new apps.
+“It is early days for the technology,” Ms. Hsiao said. “We’re exploring how these experiences can show up in different products.”
+The recent announcements are the beginning of Google’s plan to introduce more than 20 A.I. products and features, The New York Times has reported, including a feature called Shopping Try-on and the ability to create custom background images for YouTube videos and Pixel phones.
+Rather than being combined with its search engine, Bard is a stand-alone webpage featuring a question box. At the bottom of an answer there is a button to “Google it,” which takes users to a new tab with a conventional Google search results page on the topic.
+Google executives pitched Bard as a creative tool designed to draft emails and poems and offer guidance on how to get children involved in new hobbies like fly-fishing. The company is keen to see how people use the technology, and will further refine the chatbot based on use and feedback, the executives said. Unlike its search engine, though, Bard was not primarily designed to be a source of reliable information.
+“We think of Bard as complementary to Google Search,” Ms. Hsiao said. “We want to be bold in how we innovate with this technology as well as be responsible.”
+Image
+Google lets users provide feedback on the usefulness of a particular answer.
+Credit...
+via Google
+Like similar chatbots, Bard is based on a kind of A.I. technology called a 
+large language model
+, or L.L.M., which learns skills by analyzing vast amounts of data from across the internet. This means the chatbot often gets facts wrong and sometimes makes up information without warning — 
+a phenomenon A.I. researchers call hallucination.
+ The company said it had worked to limit this behavior, but acknowledged that its controls were not entirely effective.
+When executives demonstrated the chatbot on Monday, it refused to answer a medical question because doing so would require precise and correct information. But the bot also falsely described its source for an answer it generated about the American Revolution.
+Google posts a disclaimer under Bard’s query box warning users that issues may arise: “Bard may display inaccurate or offensive information that doesn’t represent Google’s views.” The company also provides users three options of responses for each question, and lets them provide feedback on the usefulness of a particular answer.
+Much like Microsoft’s Bing chatbot and similar bots from start-ups like You.com and Perplexity, the chatbot annotates its responses from time to time, so people can review its sources. And it dovetails with Google’s index of all websites, so that it can instantly gain access to the latest information posted to the internet.
+This may make the chatbot more accurate in some cases, but not all. Even with access to the latest online information, it still misstates facts and generates misinformation.
+“L.L.M.s are tricky,” said Mr. Collins, Google’s vice president for research. “Bard is no exception.”
+The Generative A.I. Race
+OpenAI Plans to Up the Ante in Tech’s A.I. Race
+March 14, 2023
+Microsoft and Google Unveil A.I. Tools for Businesses
+March 16, 2023
+A New Chat Bot Is a ‘Code Red’ for Google’s Search Business
+Dec. 21, 2022

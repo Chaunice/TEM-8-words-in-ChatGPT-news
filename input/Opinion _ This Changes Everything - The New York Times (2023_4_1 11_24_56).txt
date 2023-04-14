@@ -1,0 +1,79 @@
+In 2018, Sundar Pichai, the chief executive of Google — and not one of the tech executives known for overstatement — said, “A.I. is probably the most important thing humanity has ever worked on. I think of it as something more profound than electricity or fire.”
+Try to live, for a few minutes, in the possibility that he’s right. There is no more profound human bias than the expectation that tomorrow will be like today. It is a powerful heuristic tool because it is almost always correct. Tomorrow probably will be like today. Next year probably will be like this year. But cast your gaze 10 or 20 years out. Typically, that has been possible in human history. I don’t think it is now.
+Artificial intelligence is a loose term, and I mean it loosely. I am describing not 
+the soul of intelligence
+, but the texture of a world populated by ChatGPT-like programs that feel to us as though they were intelligent, and that shape or govern much of our lives. Such systems are, to a large extent, already here. But what’s coming will make them look like toys. What is hardest to appreciate in A.I. is the improvement curve.
+“The broader intellectual world seems to wildly overestimate how long it will take A.I. systems to go from ‘large impact on the world’ to ‘unrecognizably transformed world,’” Paul Christiano, a key member of OpenAI who left to found the Alignment Research Center, 
+wrote
+ last year. “This is more likely to be years than decades, and there’s a real chance that it’s months.”
+Perhaps the developers will hit a wall they do not expect. But what if they don’t?
+I find myself thinking back to the early days of Covid. There were weeks when it was clear that lockdowns were coming, that the world was tilting into crisis, and yet normalcy reigned, and you sounded like a loon telling your family to stock up on toilet paper. There was the difficulty of living in exponential time, the impossible task of speeding policy and social change to match the rate of viral replication. I suspect that some of the political and social damage we still carry from the pandemic reflects that impossible acceleration. There is a natural pace to human deliberation. A lot breaks when we are denied the luxury of time.
+But that is the kind of moment I believe we are in now. We do not have the luxury of moving this slowly in response, at least not if the technology is going to move this fast.
+Since moving to the Bay Area in 2018, I have tried to spend time regularly with the people working on A.I. I don’t know that I can convey just how weird that culture is. And I don’t mean that dismissively; I mean it descriptively. It is a community that is living with an altered sense of time and consequence. They are creating a power that they do not understand at a pace they often cannot believe.
+In a 2022 
+survey
+, A.I. experts were asked, “What probability do you put on human inability to control future advanced A.I. systems causing human extinction or similarly permanent and severe disempowerment of the human species?” The median reply was 10 percent.
+I find that hard to fathom, even though I have spoken to many who put that probability even higher. Would you work on a technology you thought had a 10 percent chance of wiping out humanity?
+Editors’ Picks
+A Movie Confronts Germany’s Other Genocide
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+Continue reading the main story
+We typically reach for science fiction stories when thinking about A.I. I’ve come to believe the apt metaphors lurk in fantasy novels and occult texts. As my colleague Ross Douthat 
+wrote
+, this is an act of summoning. The coders casting these spells have no idea what will stumble through the portal. What is oddest, in my conversations with them, is that they speak of this freely. These are not naifs who believe their call can be heard only by angels. They believe they might summon demons. They are calling anyway.
+I often ask them the same question: If you think calamity so possible, why do this at all? Different people have different things to say, but after a few pushes, I find they often answer from something that sounds like the A.I.’s perspective. Many — not all, but enough that I feel comfortable in this characterization — feel that they have a responsibility to usher this new form of intelligence into the world.
+A tempting thought, at this moment, might be: These people are nuts. That has often been my response. Perhaps being too close to this technology leads to a loss of perspective. This was true among cryptocurrency enthusiasts in recent years. The claims they made about how blockchains would revolutionize everything from money to governance to trust to dating never made much sense. But they were believed most fervently by those closest to the code.
+Is A.I. just taking crypto’s place as a money suck for investors and a time suck for idealists and a magnet for hype-men and a hotbed for scams? I don’t think so. Crypto was always a story about an unlikely future searching for traction in the present. With A.I., to imagine the future, you need only 
+look closely
+ at the present.
+Could these systems usher in a new era of scientific progress? In 2021, a system built by DeepMind managed to predict the 3-D structure of tens of thousands of proteins, an advance so remarkable that the editors of the journal Science 
+named
+ it their breakthrough of the year. Will A.I. populate our world with nonhuman companions and personalities that become our friends and our enemies and our assistants and our gurus and perhaps even our lovers? “Within two months of downloading Replika, Denise Valenciano, a 30-year-old woman in San Diego, left her boyfriend and is now ‘happily retired from human relationships,’” New York magazine 
+reports
+.
+Could A.I. put millions out of work? Automation already has, again and again. Could it help terrorists or antagonistic states develop lethal weapons and crippling cyberattacks? These systems will already offer guidance on building biological weapons if you ask them cleverly enough. Could it end up controlling critical social processes or public infrastructure in ways we don’t understand and may not like? A.I. is already being used for 
+predictive policing
+ and 
+judicial sentencing
+.
+But I don’t think these laundry lists of the obvious do much to prepare us. We can plan for what we can predict (though it is telling that, for the most part, we haven’t). What’s coming will be weirder. I use that term here in a specific way. In his book “
+High Weirdness,
+” Erik Davis, the historian of Californian counterculture, describes weird things as “anomalous — they deviate from the norms of informed expectation and challenge established explanations, sometimes quite radically.” That is the world we’re building.
+I cannot emphasize this enough: We do not understand these systems, and it’s not clear we even can. I don’t mean that we cannot offer a high-level account of the basic functions: These are typically probabilistic algorithms trained on digital information that make predictions about the next word in a sentence, or an image in a sequence, or some other relationship between abstractions that it can statistically model. But zoom into specifics and the picture dissolves into computational static.
+“If you were to print out everything the networks do between input and output, it would amount to billions of arithmetic operations,” writes Meghan O’Gieblyn in her brilliant book, “
+God, Human, Animal, Machine
+,” “an ‘explanation’ that would be impossible to understand.”
+That is perhaps the weirdest thing about what we are building: The “thinking,” for lack of a better word, is utterly inhuman, but we have trained it to present as deeply human. And the more inhuman the systems get — the more billions of connections they draw and layers and parameters and nodes and computing power they acquire — the more human they seem to us.
+The stakes here are material and they are social and they are metaphysical. O’Gieblyn observes that “as A.I. continues to blow past us in benchmark after benchmark of higher cognition, we quell our anxiety by insisting that what distinguishes true consciousness is emotions, perception, the ability to experience and feel: the qualities, in other words, that we share with animals.”
+This is an inversion of centuries of thought, O’Gieblyn notes, in which humanity justified its own dominance by emphasizing our cognitive uniqueness. We may soon find ourselves taking metaphysical shelter in the subjective experience of consciousness: the qualities we share with animals but not, so far, with A.I. “If there were gods, they would surely be laughing their heads off at the inconsistency of our logic,” she writes.
+If we had eons to adjust, perhaps we could do so cleanly. But we do not. The major tech companies are in a race for A.I. dominance. The U.S. and China are in a race for A.I. dominance. Money is gushing toward companies with A.I. expertise. To suggest we go slower, or even stop entirely, has come to seem childish. If one company slows down, another will speed up. If one country hits pause, the others will push harder. Fatalism becomes the handmaiden of inevitability, and inevitability becomes the justification for acceleration.
+Katja Grace, an A.I. safety researcher, 
+summed
+ up this illogic pithily. Slowing down “would involve coordinating numerous people — we may be arrogant enough to think that we might build a god-machine that can take over the world and remake it as a paradise, but we aren’t delusional.”
+One of two things must happen. Humanity needs to accelerate its adaptation to these technologies or a collective, enforceable decision must be made to slow the development of these technologies. Even doing both may not be enough.
+What we cannot do is put these systems out of our mind, mistaking the feeling of normalcy for the fact of it. I recognize that entertaining these possibilities feels a little, yes, weird. It feels that way to me, too. Skepticism is more comfortable. But something Davis writes rings true to me: “In the court of the mind, skepticism makes a great grand vizier, but a lousy lord.”
+More on artificial intelligence and the future
+Opinion | Noam Chomsky, Ian Roberts and Jeffrey Watumull
+Noam Chomsky: The False Promise of ChatGPT
+March 8, 2023
+Opinion | Ezra Klein
+The Imminent Danger of A.I. Is One We’re Not Talking About
+Feb. 26, 2023
+Opinion | Ross Douthat
+The Return of the Magicians
+March 2, 2023
+The Times is committed to publishing 
+a diversity of letters
+ to the editor. We’d like to hear what you think about this or any of our articles. Here are some 
+tips
+. And here’s our email: 
+letters@nytimes.com
+.
+Follow The New York Times Opinion section on 
+Facebook
+, 
+Twitter (@NYTopinion)
+ and 
+Instagram
+.

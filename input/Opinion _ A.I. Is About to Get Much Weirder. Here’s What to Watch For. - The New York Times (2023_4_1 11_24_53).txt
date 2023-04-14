@@ -1,0 +1,51 @@
+Produced by 
+‘The Ezra Klein Show’
+OpenAI last week released its most powerful language model yet: GPT-4, which vastly outperforms its predecessor GPT-3.5 on a variety of tasks.
+GPT-4 can pass the bar exam in the 90th percentile, while the previous model struggled, around the 10th percentile. GPT-4 scored in the 88th percentile on the LSAT, up from GPT-3.5’s 40th percentile. And on the advanced sommelier theory test, GPT-4 performed better than 77 percent of test takers. (GPT-3.5 hovered around 46 percent.) These are stunning results — not just what the model can do but also the rapid pace of progress. And Open AI’s ChatGPT and other chat bots are just one example of what recent A.I. systems can achieve.
+[You can listen to this episode of “The Ezra Klein Show” on 
+Apple
+, 
+Spotify
+, 
+Amazon Music
+, 
+Google
+ or 
+wherever you get your podcasts
+.]
+Kelsey Piper is a senior writer at Vox, where she’s been ahead of the curve covering advanced A.I., its world-changing possibilities, and the people creating it. Her work is informed by her deep knowledge of the handful of companies that arguably have the most influence over the future of A.I.
+We discuss whether artificial intelligence has coherent goals and whether that matters, whether the disasters ahead in A.I. will be small enough to learn from or truly catastrophic, the challenge of building social technology fast enough to withstand malicious uses of A.I., whether we should focus on slowing down A.I. progress (and the specific oversight and regulation that could help us do it), why Piper is more optimistic this year that regulators can be “on the ball’ with A.I., how competition between the U.S. and China shapes A.I. policy and more.
+This episode contains strong language.
+You can listen to our whole conversation by following “The Ezra Klein Show” on 
+Apple
+, 
+Spotify
+, 
+Google
+ or 
+wherever you get your podcasts
+. View a list of book recommendations from our guests 
+here
+.
+(A full transcript of the episode is available 
+here
+.)
+Editors’ Picks
+A Movie Confronts Germany’s Other Genocide
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+Continue reading the main story
+Image
+Credit...
+Courtesy of Kelsey Piper
+More on A.I.
+Opinion | ‘The Ezra Klein Show’
+A Skeptical Take on the A.I. Revolution
+Jan. 6, 2023
+Opinion | ‘The Ezra Klein Show’
+Sam Altman on the A.I. Revolution, Trillionaires and the Future of Political Power
+June 11, 2021
+Opinion | ‘The Ezra Klein Show’
+If ‘All Models Are Wrong,’ Why Do We Give Them So Much Power?
+June 4, 2021
+“The Ezra Klein Show” is produced by Emefa Agawu, Annie Galvin, Jeff Geld, Roge Karma and Kristin Lin. Fact-checking by Michelle Harris and Kate Sinclair. Mixing by Jeff Geld. Original music by Isaac Jones. Audience strategy by Shannon Busta. The executive producer of New York Times Opinion Audio is Annie-Rose Strasser. Special thanks to Carole Sabouraud and Kristina Samulewski.

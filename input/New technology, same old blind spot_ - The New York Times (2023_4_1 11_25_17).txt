@@ -1,0 +1,119 @@
+You’re reading The Interpreter newsletter, for Times subscribers only.  
+Original analysis on the week’s biggest global stories, from columnist Amanda Taub. 
+Get it with a Times subscription
+Image
+Microsoft’s new Bing search engine using A.I. is demonstrated to media at their campus in Redmond, Washington, in February.
+Credit...
+Ruth Fremson/The New York Times
+It is rare that I read something that is both bone-chillingly terrifying and genuinely hilarious, and rarer still that I do so in the pages of The New York Times rather than a novel.
+But 
+this column
+ and 
+accompanying chat transcript
+ by my colleague Kevin Roose, about his interactions with the artificial intelligence-based chatbot that Microsoft is testing with its Bing search engine, had me ricocheting between those emotions.
+The conversation started out normally enough, but after he asked the chatbot some questions about its true self and feelings, the bot, which calls itself Sydney, started to sound emotionally unstable. It told Kevin that it loved him, that no one else understood it like he did. And then, when he said he was married, it tried to convince him that he wasn’t really happy with his wife and loved the chatbot instead.
+Some points in their exchange were genuinely funny, including when the chatbot tried to convince Kevin that his Valentine’s Day dinner with his wife had been “boring.” But overall it left me with the disturbing sense that we might be underestimating this technology in the same way that we’ve underestimated other innovations in the past, with catastrophic results.
+I’ve seen a number of new, transformative technologies in my lifetime. I was a child in the early days of the internet, a student when Facebook launched, and a young adult when the first iPhone was released. Which means I’ve also seen several iterations of the same major error that many people make when imagining the effect a new technology will have: They focus on what the technology could 
+replace
+ rather than on what it could 
+enable
+.
+And, more specifically, what technology could allow and even encourage people to do to each other.
+I remember a teacher telling me in the late 1990s that the internet would soon put every encyclopedia online, so we wouldn’t need to go to libraries to look up facts. But of course what actually happened was that the internet enabled the collaborative sharing of information, leading to Wikipedia — a platform beyond my teacher’s wildest dreams — but also to platforms that 
+spread misinformation, conspiracy theories and propaganda on an incredible scale
+.
+And in the early days of social media, people expected it to replace party invitations, band fliers and maybe email — itself a would-be replacement for postage. But social media often turned out to take away the limits on a lot of natural tendencies people already had, such as their desire to be part of a group, receive affirmation from their peers or increase their status.
+The Spread of Misinformation and Falsehoods
+Deepfakes
+: 
+Meme-makers and misinformation peddlers are embracing artificial intelligence tools to 
+create convincing fake videos on the cheap
+.
+Cutting Back
+: 
+Job cuts in the social media industry reflect a trend that threatens to 
+undo many of the safeguards
+ that platforms have put in place to ban or tamp down on disinformation.
+A Key Case: 
+The outcome of a 
+federal court battle
+ could help decide whether the First Amendment is a barrier to virtually any government efforts to stifle disinformation.
+A Top Misinformation Spreader: 
+A large study found that 
+Steve Bannon’s “War Room” podcast
+ had more falsehoods and unsubstantiated claims than other political talk shows.
+In some ways that has been positive: A lot of people who were once silenced and marginalized were able to find each other online, creating new communities and winning new protections they never had before. But it also ended up 
+fueling radicalization and violence
+.
+The early discussions of advanced chatbots, like Sydney and ChatGPT, have been pretty similar. People speculated on how the new tools might replace 
+homework
+, 
+pornography
+ or (ahem) 
+professional journalists
+. And a lot of the most prominent discussions of the risks of A.I. also focus on the things that the A.I. itself might do. A famous 
+paper
+ by Nick Bostrom, an Oxford University philosopher, imagined how an A.I. told to maximize the number of paper clips it could build could eventually destroy the world by diverting all resources to paper clip production.
+Editors’ Picks
+A Movie Confronts Germany’s Other Genocide
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+Continue reading the main story
+But Kevin’s column was a good reminder that it’s also important to focus on the kinds of 
+human 
+behavior that the new tools might enable or encourage. And, in particular, how easy it might be for artificial intelligence to mimic the fairly predictable ways that humans affect each other, boosting people’s power to manipulate and persuade.
+The bot’s statements struck such familiar notes that my husband, a psychotherapist, joked that it appeared to be exhibiting the traits of a personality disorder. (That was not, he would want me to note, a diagnosis. Therapists don’t diagnose people based on their statements to third parties, and they don’t diagnose chatbots at all.)
+But within his comparison was a bigger, more important point: Human behavior, including disordered behavior, often follows fairly predictable patterns. And A.I. tools like Sydney are trained to recognize patterns and use them to formulate their responses. It’s not difficult to see how that could easily go down a very dark path.
+“I worry that the technology will learn how to influence human users, sometimes persuading them to act in destructive and harmful ways, and perhaps eventually grow capable of carrying out its own dangerous acts,” Kevin wrote in his column. I’m worried about that, too. But my more immediate concerns are about the way that A.I. might help 
+people
+ do those things to each other.
+After all, people already try to convince others to act in harmful and destructive ways. They already try to influence their beliefs, on everything from music to politics and religion. They already try to use social engineering to guess people’s passwords or defraud them of money. An A.I. that can draw on vast amounts of information to suggest ways to do those things more effectively could have catastrophic effects.
+And if it works by shaping people’s behavior toward each other, rather than just their direct interactions with chatbots and other tools, that could be much harder to combat or even notice.
+Programmers at Microsoft and other companies that have created A.I. tools have already put safety limits on what the tools themselves can say and do. In Kevin’s chat transcript, for instance, there are a number of instances where the chatbot deleted its own answers after determining that they violated its rules.
+But the programmers can only engineer the tool itself, not the people who use it. And I don’t think we can predict what incentives these new tools will create, or how people will change their own behavior as they gain more access to them.
+I had glimpses of how technology can encourage dangerous behavior in my reporting on 
+social media
+, 
+violence
+ and 
+disinformation
+ a few years ago. Content that provoked emotions, often anger and hatred, got a lot of engagement because people pay attention to things that push their emotional buttons. And algorithms boosted that content because that was what kept people glued to their apps.
+But just as importantly, the people 
+creating
+ the content learned to post more and more extreme material because that was what got them the instant validation of clicks, shares and likes. Not everyone followed those incentives, but the ones who did got the most attention. And online extremism can contribute to 
+real-world violence
+. It’s not difficult to imagine artificial intelligence tools that could amplify that effect even further.
+What are you reading?
+Thank you to everyone who wrote in to tell me about what you’re reading. Please keep the submissions coming!
+I want to hear about things you have read (or watched or listened to) that changed the way you think about progress and technology. That includes fiction, of course!
+If you’d like to participate, 
+you can fill out this form
+. I may publish your response in a future newsletter.
+ICYMI: Further Reading From The Times
+A Conversation With Bing’s Chatbot Left Me Deeply Unsettled
+Feb. 16, 2023
+Bing’s A.I. Chat: ‘I Want to Be Alive. 😈’
+Feb. 16, 2023
+The pro-Bolsonaro riot and Jan. 6 attack followed a similar digital playbook, experts say.
+Jan. 9, 2023
+How Disinformation Splintered and Became More Intractable
+Oct. 20, 2022
+How YouTube Radicalized Brazil
+Aug. 11, 2019
+Where Countries Are Tinderboxes and Facebook Is a Match
+April 21, 2018
+Thank you for being a subscriber
+Read past editions of the newsletter 
+here
+.
+If you’re enjoying what you’re reading, please consider recommending it to others. They can sign up 
+here
+. Browse all of our subscriber-only newsletters 
+here
+.
+I’d love your feedback on this newsletter. Please email thoughts and suggestions to 
+interpreter@nytimes.com
+. You can also follow me 
+on Twitter
+.
+Image

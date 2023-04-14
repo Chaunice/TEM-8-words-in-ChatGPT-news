@@ -1,0 +1,110 @@
+At a cryptocurrency conference in Denver this month, a group of singers clad in bright orange onesies 
+took the stage
+ to perform what one industry website later 
+described
+ as an anthem for the crypto faithful, a “blockchain ‘Blowin’ in the Wind.’”
+The chorus was a list of crypto’s most notorious villains, from the 
+trash-talking entrepreneur
+ Do Kwon to the disgraced FTX founder 
+Sam Bankman-Fried
+, punctuated by four-letter expletives.
+“In the next bull market, we promise not to use,” the song continued, “centralized exchanges run by these toxic dudes.”
+After a disastrous 2022, when a procession of prominent crypto firms imploded, the industry is angling for an audacious rebrand. Executives like Mr. Kwon and Mr. Bankman-Fried — once beloved crypto celebrities, with hundreds of thousands of devotees hanging on their every tweet — are now personae non gratae. Their former admirers argue that these crypto villains never truly embodied the industry’s core values, even before their companies collapsed.
+At surviving firms, top executives are looking for new ways to market products that many consumers now distrust — and to 
+distance themselves
+ from former colleagues and mentors who could face years in prison. Some companies are trying to capitalize on the growing interest around artificial intelligence, with crypto schemes that feature convoluted A.I. tie-ins. Others are looking to 
+replace the word “crypto,”
+ arguing that the industry’s original nomenclature has become irredeemably tainted.
+Crypto companies were “moving gradually towards changing the narrative” even before Mr. Bankman-Fried’s exchange failed in November, said Todd Irwin, the chief strategy officer at Fazer, a branding agency that has clients in the industry. “After the FTX incident, the move has been turbocharged.”
+The cleansing effort is a familiar routine in an industry that has experienced repeated booms and busts over its short history. Early advocates of Bitcoin had to convince the public and regulators that cryptocurrency was more than just a convenient tool for drug dealers. A major crypto boom in 2017 was followed by a long period of law enforcement scrutiny, as exciting-sounding start-ups were exposed as scams.
+A New Generation of Chatbots
+Card 1 of 5
+A brave new world. 
+A new crop of chatbots powered by artificial intelligence has ignited a scramble to determine whether the technology 
+could upend the economics of the internet
+, turning today’s powerhouses into has-beens and creating the industry’s next giants. Here are the bots to know:
+ChatGPT. 
+ChatGPT, the artificial intelligence language model from a research lab, OpenAI, has been making headlines since November for its ability to respond to complex questions, write poetry, generate code, 
+plan vacations
+ and translate languages. GPT-4, the latest version introduced in mid-March, 
+can even respond to images
+ (and ace the Uniform Bar Exam).
+Bing. 
+Two months after ChatGPT’s debut, Microsoft, OpenAI’s primary investor and partner, 
+added a similar chatbot
+, capable of having open-ended text conversations on virtually any topic, to its Bing internet search engine. But it was the bot’s occasionally inaccurate, misleading and 
+weird responses
+ that drew much of the attention after its release.
+Bard. 
+Google’s chatbot, called Bard, 
+was released in March
+ to a limited number of users in the United States and Britain. Originally conceived as a creative tool designed to draft emails and poems, it can generate ideas, write blog posts and 
+answer questions with facts or opinions
+.
+Ernie. 
+The search giant Baidu unveiled China’s first major rival to ChatGPT in March. The debut of Ernie, short for Enhanced Representation through Knowledge Integration, 
+turned out to be a flop
+ after a promised “live” demonstration of the bot was revealed to have been recorded.
+So far, the latest round of soul-searching has done little to turn the industry’s fortunes around. Since FTX’s demise, U.S. regulators have 
+announced
+ fines and other enforcement actions against several major crypto companies. The 
+abrupt failures
+ of two reliable banking partners, Silvergate Capital and Signature Bank, have dealt a fresh blow to crypto start-ups, making it harder to conduct basic business operations in the United States.
+And the industry is still struggling to demonstrate the practical value of its technology to an increasingly skeptical public.
+Editors’ Picks
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+A Movie Confronts Germany’s Other Genocide
+Continue reading the main story
+“Rebranding doesn’t solve the fundamental problem,” said Lee Reiners, a onetime supervisor at the Federal Reserve Bank of New York who now teaches at Duke Law School. “What is this good for? What problem does it solve? This is just P.R.”
+A year ago, the crypto industry was flush with cash. At his compound in the Bahamas in April, Mr. Bankman-Fried 
+hosted a weeklong conference
+ where attendees downed champagne and partied on the beaches. Among the guests: Su Zhu, a founder of the crypto hedge fund Three Arrows Capital, which failed a few weeks later when a market crash sent all the major cryptocurrencies into free fall.
+Now Mr. Bankman-Fried faces charges over his management of FTX that could mean decades in prison if he is convicted, and industry executives are still navigating the fallout.
+Steven Saxton got on a call with a bank this year to discuss his crypto start-up, 
+Gorilla Labs
+, which plans to offer a stablecoin, a type of cryptocurrency designed to maintain a value of $1.
+“My C.T.O. said crypto about five times during the conversation. I was like, ‘Just say ‘blockchain,’” Mr. Saxton said. “These guys could be very sensitive to that, and it could make them very nervous.”
+But even “blockchain” — the term for the publicly viewable ledger where crypto transactions are recorded — has potentially negative connotations. In January, the crypto mining company Riot Blockchain 
+changed
+ its name to Riot Platforms. Other companies have removed the term “crypto” from their marketing materials, turning to vaguer words like “decentralization.”
+“They’re just wearing a different outfit to the same party,” said Mr. Irwin, the branding expert.
+The marketing push extends to the world of artificial intelligence, which has replaced crypto as the hot trend in Silicon Valley after the release of ChatGPT, the viral chatbot. A series of A.I.-themed cryptocurrencies have 
+surged in value
+, and crypto firms with names like 
+DogAI
+ and 
+CryptoGPT
+ are trying to incorporate the buzzy technology into their offerings.
+No crypto company is under more pressure than the giant exchange Binance, which is facing 
+government investigations
+ on several fronts, as well as 
+rising concerns
+ about its financial stability and lack of cooperation with regulators. This month, the exchange’s chief executive, Changpeng Zhao, 
+moved
+ to associate Binance with a more attractive trend. He unveiled Bicasso, a product that uses A.I. technology to make artwork in the form of nonfungible tokens, the digital collectibles known as NFTs.
+“You can turn your creative visions into NFTs with AI,” Mr. Zhao wrote on Twitter. “Give it a try and show me what you make with it.”
+In recent months, he and other industry figures have also posted videos on social media seemingly designed to separate themselves from erstwhile crypto heroes like Mr. Bankman-Fried.
+“Honor isn’t given,” Mr. Zhao somberly 
+declared
+ in one post. “It’s earned.” In another
+ widely shared video
+, Jesse Powell, the founder of the Kraken crypto exchange, threw a few awkward jabs at a punching bag labeled “corruption” and “shady players.”
+A similar distancing effort was underway in March at ETH Denver, a conference for advocates of Ethereum, the popular crypto platform. In the bathrooms, guests had the option to use 
+toilet paper
+ featuring a Che Guevara-style image of Mr. Bankman-Fried. At the opening event, Jonathan Mann, a songwriter who specializes in crypto-themed lyrics, performed an expletive-heavy anthem denouncing 2022’s crypto villains.
+“It was supposed to be a final letting go of all this toxicity and bad vibes and feelings of 2022,” Mr. Mann said in an interview. “I had everyone do breathing exercises before: ‘Close your eyes. Deep breath in, deep breath out. We’re going to cleanse ourselves.’”
+Even in 2023, a crypto conference can still attract high-powered guests. While Mr. Mann and four other singers performed, the governor of Colorado, Jared Polis, watched from the sidelines. “He had a grin on his face,” Mr. Mann said. (A spokeswoman for the governor, Melissa Dworkin, said she “wouldn’t misinterpret his curious demeanor as an endorsement of the words used.”)
+For some crypto executives, ritualized cleansing is not enough. A few start-ups have abandoned crypto altogether in favor of different types of technology.
+In late 2021, Troy Osinoff co-founded Zurp, hoping to simplify complex crypto investments for mainstream consumers. Zurp raised $5 million, built a wait list of 120,000 people and was preparing to launch last summer when the collapse of Luna, a popular cryptocurrency, triggered a broader market meltdown.
+The fallout damaged many of Zurp’s competitors, and Mr. Osinoff decided to pause the rollout because he was worried the crypto markets were not a safe place to park customer funds.
+Soon Zurp shifted to a more conventional form of financial technology. The company began developing a credit card that features perks tailored to Generation Z and plans to offer it in the coming months. Mr. Osinoff said he still hoped to incorporate crypto features into Zurp’s offerings, but only once sentiment improved.
+“It’s already a hurdle to get people interested in crypto,” he said. “We’re just waiting for it to normalize.”
+Susan C. Beachy contributed research.
+Crypto Collapse
+Government Cracks Down on Crypto Industry With Flurry of Actions
+Feb. 18, 2023
+The Crypto Industry Struggles for a Way Forward
+Dec. 5, 2022
+FTX Inquiry Expands as Prosecutors Reach Out to Former Executives
+Feb. 4, 2023

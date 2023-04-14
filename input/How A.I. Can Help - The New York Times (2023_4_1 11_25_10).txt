@@ -1,0 +1,224 @@
+You’re reading The Morning newsletter.  
+Make sense of the day’s news and ideas. David Leonhardt and Times journalists guide you through what’s happening — and why it matters. 
+Get it sent to your inbox.
+Eli Snyder, a special-education teacher in Colorado, wanted to play basketball with his students. He had questions: How could he adapt the game for a child with cerebral palsy? And how could he help his students with autism play a highly stimulating activity?
+ChatGPT had answers.
+The artificial intelligence chatbot had analyzed the internet’s vast amount of data, including information about disabilities and basketball. It used patterns it found in all that text to generate recommendations: Shrink the court size to reduce the distance players need to travel in wheelchairs. Lower the hoop and install a ramp leading up to it so students can roll the basketball into the net. Pair up players so each person has a buddy for support.
+Snyder could have found this information through a simple Google search. He turned to ChatGPT because it produced complete paragraphs instead of delivering links that would have left him with more clicking and synthesizing to do. The chatbot’s response helped him quickly write adapted lesson plans for each of his students.
+“It’s been revolutionary,” Snyder, 30, said. “What used to take me an hour now takes me five minutes.”
+Tech giants are heralding ChatGPT as revolutionary, too. With millions of users, the chatbot has started an 
+A.I. arms race
+. Companies are rushing to release their own chatbots, and some 
+seem eerily human
+.
+Beyond the excitement, the technology’s possibilities can feel scary — as if 
+science fiction has become reality
+. ChatGPT has already inspired many people to ask: Will A.I. take my job? It’s a familiar panic, one that resurfaces every time a groundbreaking innovation emerges, like the car or the internet. Still, questioning how A.I. could replace jobs in the future misses a more urgent point: The platform is changing how people work right now.
+How workers use A.I.
+Artificial intelligence already pervades our lives, powering voice assistants like Siri and Alexa, unlocking phones with facial recognition and auto-completing sentences in emails. ChatGPT gave millions of people the opportunity to test and interact with a version of the technology called generative A.I., which can write text and create images.
+Many workers are already using the tool in their jobs. The chatbot has written 
+home descriptions
+ for real estate agents, 
+job descriptions
+ for hiring managers and sales pitches for marketers.
+It excels at 
+formulaic writing tasks
+ because it mimics text that already exists online. House listings often feel canned, as do sales pitches, making it easy for ChatGPT to complete first drafts of those types of assignments.
+Editors’ Picks
+A Movie Confronts Germany’s Other Genocide
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+Continue reading the main story
+“ChatGPT solves the blank page problem,” Cody Gough, a marketing professional outside of Chicago, told me. “The worst thing in the world is opening an empty document. ChatGPT helps you start.”
+The limitations
+As we’ve covered in this newsletter, A.I. chatbots are 
+flawed
+. They often make mistakes — like the one that 
+led to a $100 billion drop
+ in Google’s cumulative stock market value when it appeared in an ad.
+The workers I spoke to mostly use ChatGPT as a brainstorming tool and writing aid. They say the work of chatbots is sometimes inaccurate and often of lower quality than they could produce themselves, but that chatbots can still be useful.
+Alexia Mandeville, a video game designer in Texas, uses ChatGPT to help her brainstorm character names, conceive ideas for trailers and produce news releases for her games. “I’m making something that doesn’t need to be factual,” Mandeville said. Because her work is fictional, she added, ChatGPT needs to be creative, not accurate.
+The chatbot is still the tool, not the creator. It can copy writing styles, often 
+replicating our weird internet behavior
+, as my colleague Cade Metz wrote. ChatGPT’s outputs are only as good as its inputs, so it struggles to reason, use logic, discern the truth and write imaginative work. 
+It has tried and failed
+ to write science fiction, for example. The human capacity for original thought is keeping white-collar professionals employed, even as A.I. 
+poses more of a threat to them
+ than earlier advancements did.
+Freeing up more time
+A.I. can’t do Snyder’s job of teaching music and gym classes. It can’t play the piano or the basketball game HORSE, and it can’t facilitate students’ social and emotional learning. But it gives Snyder more time for that work.
+“Everyone is talking about how A.I. is going to replace us,” Snyder said. “I don’t agree with that. It’s going to free up more time at our jobs to do other, more productive things.”
+A.I. will continue to transform industries as companies integrate it into a variety of tasks, like customer service from 
+virtual agents
+, predictive product inventory and medical tests. ChatGPT will probably eliminate some roles while creating new jobs. That’s already started to happen: Companies are hiring workers to 
+test and sell the most effective chatbot queries
+.
+The technology will only get better. A.I. is designed to learn, and companies are investing billions to develop more powerful versions of the tool. At some point, chatbots could write finished products instead of just often-inaccurate first drafts — and eliminate far more jobs.
+Until then, most of them are safe.
+For more
+Ezra Klein argues 
+we’re too worried about what A.I. can do
+, and not worried enough about who controls the technology.
+Chatbot conversations can be creepy, but that doesn’t mean the bots are alive. Here’s 
+how generative A.I. works
+.
+THE LATEST NEWS
+Politics
+The Senate voted to repeal a rule that lets retirement funds 
+consider climate change
+ when they invest. President Biden plans to veto the bill.
+Chicago’s mayoral election 
+highlighted division among Democrats
+ on crime and policing. That debate will shape the runoff.
+A Supreme Court case about Biden’s student loan forgiveness plan could 
+redefine the limits of presidential power
+.
+Some Republicans and Latino Democrats have found common ground on an unlikely issue: 
+banning the use of “Latinx”
+ in government documents.
+Julie Su, the deputy labor secretary Biden 
+nominated to lead the department
+, is an ally of unions and won a MacArthur “genius” grant in 2001.
+International
+Image
+Bola Tinubu, Nigeria’s president-elect.
+Credit...
+Ben Curtis/Associated Press
+Nigeria’s newly elected president, Bola Tinubu, is a 
+longtime kingmaker
+ taking power in a country facing a cash shortage.
+Taxpayer support for Ukraine aid is waning, 
+worrying U.S. officials
+ who hope to send billions more to support the war effort.
+Cashless 10-cent chai: Digital payments have 
+remade commerce in India
+ at a scale unlike anything in the West.
+Other Big Stories
+Image
+Yosemite National Park.
+Credit...
+Tayfun Coskun/Anadolu Agency, via Getty Images
+Yosemite National Park 
+has been closed for five days
+ and counting because of snow.
+After criticism by Biden, the drugmaker Eli Lilly is
+ cutting prices on some insulin products
+.
+A court in Georgia 
+sided with pharmaceutical companies
+ in the first lawsuit brought to trial by individual victims of the opioid epidemic.
+An F.D.A. panel recommended approving 
+two vaccines against the respiratory virus R.S.V.
+ for people 60 and older.
+Tyre Nichols, who died after he was beaten by the police in Memphis, was an aspiring photographer. 
+See how he captured the world
+.
+Opinions
+Concern about crime is legitimate. It can also 
+damage Black women more than other politicians
+, 
+Charles Blow 
+writes after interviewing Chicago’s outgoing mayor, Lori Lightfoot.
+Daniel Thatcher
+, a Republican state senator in Utah, shares why he broke with his party to 
+support transgender youth
+ on the podcast “First Person.”
+MORNING READS
+Image
+A training session at Yudhveer Akhada.
+Credit...
+Prarthna Singh for The New York Times
+Coming of age: 
+At this academy in India, girls spend years 
+immersed in a community of wrestlers
+.
+Bare feet:
+ He 
+hasn’t worn shoes in 20 years
+.
+Whiskey-fed fungus:
+ It’s 
+growing near the hometown of Jack Daniel’s
+.
+Advice from Wirecutter:
+ Mail 
+these cookies or ice cream pints
+ as a gift.
+Lives Lived: 
+In 1969, Linda Kasabian left her husband to live with Charles Manson and his followers in Los Angeles. She later helped convict them of murder. Kasabian 
+died at 73
+.
+SPORTS NEWS FROM THE ATHLETIC
+Sparkling introduction: 
+Kevin Durant 
+made his Suns debut
+ last night in a win over the Hornets, scoring 23 points.
+Warrant issued:
+ Georgia’s Jalen Carter — who could be the No. 1 pick in April’s N.F.L. Draft — 
+was issued
+ an arrest warrant yesterday after a January car crash that killed a teammate.
+A return? 
+James Harden could 
+reunite with the Rockets
+ in free agency this off season, despite playing for a Sixers team squarely in the title race.
+ARTS AND IDEAS 
+Image
+Dior, fall 2023.
+Credit...
+Vianney Le Caer/Invision, via Associated Press
+The true look of Paris
+On the Netflix show “Emily in Paris,” the city is full of over-the-top outfits. But at Paris Fashion Week, 
+the prevailing style is different
+ — dark, professional and powerful, according to The Times fashion critic Vanessa Friedman. “You want that mythic thing known as French chic,” she writes.
+On Tuesday, Dior’s show was almost entirely black and white, drawing inspiration from the 1950s and Edith Piaf. And Saint Laurent went back to ’80s power dressing, with shoulder-padded jackets atop tank tops and pencil skirts.
+For more:
+ A museum in Paris is celebrating 1997, 
+the “it” year in fashion
+.
+PLAY, WATCH, EAT
+What to Cook
+Image
+Credit...
+Ryan Liebe for The New York Times. Food Stylist: Barrett Washburne.
+Make these 
+rich, tangy chickpeas
+ on a weeknight.
+What to Read
+A haunting horror novel set a century ago in the American West, Eleanor Catton’s first novel in a decade and more 
+books coming this month
+.
+What to Watch
+Stream these 
+films about volcanologists and Mars rovers
+.
+Late Night
+The hosts joked about 
+the Conservative Political Action Conference
+.
+Now Time to Play
+Image
+The pangram from yesterday’s Spelling Bee was 
+unknowing
+. Here is 
+today’s puzzle
+.
+Here’s 
+today’s Mini Crossword
+, and a clue: They work around the clock (five letters).
+And here’s 
+today’s Wordle
+.
+Thanks for spending part of your morning with The Times. See you tomorrow. — Lauren
+P.S. The Times’s Jeanna Smialek discussed her book about the Federal Reserve 
+on NPR’s “Fresh Air.”
+Here’s 
+today’s front page
+. 
+“
+The Daily
+” is about student debt.
+Matthew Cullen, Lauren Hard, Claire Moses, Ian Prasad Philbrick, Tom Wright-Piersanti and Ashley Wu contributed to The Morning. You can reach the team at 
+themorning@nytimes.com
+.
+Sign up here to get this newsletter in your inbox
+.

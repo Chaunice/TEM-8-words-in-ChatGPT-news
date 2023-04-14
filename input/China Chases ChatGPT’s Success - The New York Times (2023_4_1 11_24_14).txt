@@ -1,0 +1,153 @@
+SIGN UP  
+Want this in your inbox each morning? 
+Get it sent to your inbox.
+Image
+Image
+Baidu plans to roll out its ChatGPT-style technology next month.
+Credit...
+Aly Song/Reuters
+China’s stuttering A.I. ambitions 
+The hottest story in technology right now is the rise of ChatGPT, and the race among tech giants like Microsoft and Google to offer A.I.-powered services of their own. But the A.I. arms race isn’t confined to the U.S.; other countries are also rushing to show they’re big players.
+Nowhere is that more apparent than in China, a self-professed leader in A.I., as some of its top companies proclaim their advances in ChatGPT-style tech. But they also face a big hurdle: their own government.
+Baidu is taking the lead in showing off its chatbot chops.
+ The Chinese internet giant said yesterday that it 
+plans to roll out Ernie
+, its rival to ChatGPT, next month, embedding it in a version of its search engine, much as Microsoft has incorporated ChatGPT into an experimental version of Bing. Baidu’s C.E.O., Robin Li, boasted that Ernie was trained with over 100 billion parameters, or data points, and was built with a focus on serving Chinese customers.
+Baidu 
+isn’t the only Chinese tech company talking up its A.I. efforts
+: Tencent, Alibaba, NetEase and JD.com have all said they’re working on ChatGPT-style offerings, though without specifying concrete timetables. And others, like the food-delivery app Meituan, plan to invest millions in the technology (though Meituan’s co-founder acknowledged he knows little about A.I.). CNBC has a 
+handy rundown
+ of what Chinese tech companies have said publicly about their ambitions in generative A.I., the technology that drives ChatGPT.
+But Beijing is also hitting the brakes.
+ Regulators are said to have told Tencent and Ant Group, the fintech affiliate of Alibaba, 
+not to allow ChatGPT
+ on their platforms, according to Nikkei Asia. (ChatGPT isn’t officially available in China, but Tencent has already blocked third-party services that claim to offer access.) Other companies will need to notify the government before offering chatbot services, Nikkei added.
+Behind Beijing’s reluctance is a worry that chatbots might escape government-imposed boundaries, particularly censorship. (Consider how unpredictable answers by ChatGPT and Bing have been.) All of this underscores wider concerns confronting China’s tech sector, The Times’s Li Yuan wrote last week: Are Beijing’s growing 
+control of the private sector
+ and geopolitical tensions putting the country’s once-promising position in A.I. at risk?
+In other A.I. news:
+JPMorgan Chase is at least temporarily 
+restricting how traders can use ChatGPT
+.
+Microsoft is 
+removing limits
+ it had placed just days ago on conversations with its Bing chatbot — because users didn’t like them.
+Searches on Google’s chatbot, Bard, probably 
+cost 10 times as much
+ as standard queries, according to John Hennessy, Alphabet’s chair. (He told Reuters that those costs should fall quickly.)
+Image
+HERE’S WHAT’S HAPPENING 
+The Justice Department reportedly revives an antitrust inquiry into Google Maps. 
+Prosecutors are examining how Alphabet 
+bundles its search and mapping products
+ for potential violations of competition law, according to Bloomberg. The government has brought two other lawsuits against Alphabet in recent years.
+Top Fed officials worry more must be done to fight inflation.
+ 
+Minutes from a meeting
+ of the central bank’s Federal Open Markets Committee early this month show that governors believed that interest rates needed to be raised more, with some advocating a restrictive monetary policy. The Fed went on to raise rates by 25 basis points; it’s largely expected to maintain that pace.
+Editors’ Picks
+A Movie Confronts Germany’s Other Genocide
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+Continue reading the main story
+The European Commission limits its staff’s use of TikTok.
+ Employees must 
+delete the Chinese-owned video app
+ from work devices and from personal devices that have work apps, according to Politico. The U.S. banned TikTok on government devices in December, amid escalating tensions between China and the West.
+A lawsuit over N.B.A. Top Shot N.F.T.s can proceed.
+ A federal judge in Manhattan ruled that plaintiffs 
+had adequate grounds
+ to pursue their case against Dapper Labs, the developer of the sports-themed digital tokens. They have accused the company of selling unregistered securities, propping up the market for Top Shots and preventing users from withdrawing their money.
+Third Point plans a proxy fight at Bath & Body Works.
+ Dan Loeb’s hedge fund, which had previously disclosed a 6 percent stake in the retailer, said it would 
+nominate several board candidates
+. Third Point has criticized the company over executive compensation, C.E.O. succession planning and business strategy.
+Image
+A chip giant grapples with doubts about a big U.S. move
+Taiwan Semiconductor Manufacturing Company, the world’s dominant chip maker, drew support from the likes of President Biden and Tim Cook of Apple in December, when it said it planned to invest $40 billion to overhaul and expand a manufacturing hub in Arizona.
+But as The Times’s John Liu and Paul Mozur report, the move isn’t 
+universally loved within TSMC
+:
+Internal doubts are mounting at the Taiwanese chip maker over its U.S. factory, according to interviews with 11 TSMC employees, who declined to be identified because they were not authorized to speak publicly. Many of the workers said the project could distract from the research and development focus that had long helped TSMC outmaneuver rivals. Some added that they were hesitant to move to the United States because of potential culture clashes. 
+Investors grill Gensler over his plan to shake up markets 
+The S.E.C.’s plan to overhaul the way markets operate is drawing heat from some of the retail investors that the agency says it is meant to help. The agency’s chair, Gary Gensler, heard from members of the advocacy group We The Investors in an 
+online discussion
+ yesterday that the proposal goes too far in some areas and not far enough in others.
+Much ado about auctions. 
+The plan would force most retail trades to go through auctions on open exchanges, rather than being routed through a few market makers who pay brokers for these orders — a practice known as “payment for order flow.”
+But the auction rule is complex and untested, and even some of its supporters are dubious. “Why not a simpler rule?” asked David Lauer, the C.E.O. of Urvin Finance, a social media and market information platform for retail investors. Mr. Gensler suggested that the big industry players were also unhappy about this aspect of the proposal, and changes could be coming.
+Industry resistance is in full swing. 
+The proposals “represent fundamental changes” not backed by enough analysis, the Securities Industry and Financial Markets Association wrote in a recent 
+letter to the S.E.C.
+ It wants the comment period extended and access to the data the agency relied on for its economic analyses. Similarly, Nasdaq’s C.E.O., Adena Friedman, expressed doubts in a meeting with an S.E.C. commissioner, Mark Uyeda, and suggested that 
+more consultation time may be needed
+.
+But the
+ 
+critics want different things
+ and the S.E.C. isn’t going to please everyone. Exchanges and market makers say that the proposed limits on payment for order flow and exchange rebates will hinder markets.
+One investor, called Jay, told Mr. Gensler that the practices should have been banned and that retail traders are frustrated. “You gotta hear the people,” he said.
+“You’re our clients,” the regulator responded.
+“We were supposed to be the most empowered workplace in the world. Why did people not feel like they could actually raise a complaint?”
+— Claire Stapleton, a former Google employee who, at the start of her 12-year career at the tech giant, believed in its utopian mission statements. In 
+Times Opinion’s “First Person” podcast
+, she says the company fell short, making her reassess Big Tech’s lofty self-image and place in society.
+ 
+Betting on Ninja’s star power 
+As the e-sports industry tries to figure out how to regain growth, one company in the field, GameSquare, is leaning into the power of influencers: It is 
+hiring the gaming celebrity Tyler Blevins
+, known as Ninja, as its chief innovation officer.
+It’s hard to overstate Ninja’s star power in the gaming world.
+ Having 
+shot to fame
+ via his skills playing Fortnite — and his commentary while playing — he has amassed over 17 million followers on Twitch. (He has also said he earns about $500,000 a month from streaming.)
+Ninja is tasked with developing growth opportunities at GameSquare
+, which runs businesses including an e-sports team and a talent agency, in part by helping launch Ninja Labs, an in-house incubator. (His compensation will include a salary, equity and revenue-sharing in the intellectual property he develops at GameSquare.)
+Justin Kenna, GameSquare’s C.E.O., told DealBook that the job would give Ninja a new way to make money outside gaming, as athletes do in sports like basketball and football. “The reality is that he’s a media asset in his own right,” Mr. Kenna said. “So how do we create opportunities for him to monetize into the future outside of just streaming?”
+The hiring comes as GameSquare, and its industry, are re-finding their footing.
+ Though e-sports has broken through to mainstream culture, that 
+hasn’t exactly led to huge profits
+.
+GameSquare itself, which went public in 2020 and counts the Dallas Cowboys owner Jerry Jones as a major shareholder, has seen its stock fall about 70 percent since then. The company is now 
+combining with Engine Media
+ to expand its offerings to gaming, advertising and merchandising.
+The goal, according to Tom Rogers, the executive chairman of Engine Media, is to grab the eyeballs of Gen Z customers as they shift away from traditional media and platforms that rely on standard ad-based business models. “It’s not that Gen Z is spending less time with media,” he told DealBook. “It’s they’re spending less time with media than where advertisers have traditionally found them.”
+Image
+THE SPEED READ 
+Deals
+India’s political opposition is closely 
+scrutinizing the Adani Group’s overseas deals
+, given Gautam Adani’s close ties to Prime Minister Narendra Modi. (FT)
+Bill Gates has bought a nearly 
+3.8 percent stake in Heineken
+, worth $939 million — despite previously saying he wasn’t much of a beer drinker. (Reuters)
+Insider’s C.E.O., Henry Blodget, was spotted 
+meeting with executives of The Daily Beast
+ this month, causing speculation that Axel Springer, the German media group that owns Insider, might seek to buy the publication. (New York Post)
+Policy
+Mike Pence, the former vice president, criticized Gov. Ron DeSantis of Florida for 
+fighting Disney
+. (Bloomberg)
+Under Elon Musk, Twitter appears to have ended publishing 
+figures on government requests for its users’ data
+. (Rolling Stone)
+The White House is reportedly 
+considering two economists
+, Janice Eberly of Northwestern and Karen Dynan of Harvard, to replace Lael Brainard as the Fed’s vice chair. (WSJ)
+Best of the rest
+A Norwegian investor has made a windfall by 
+buying up Chinese shares
+ from Americans forced to sell them under sanctions rules. (Bloomberg)
+Google said it had made a breakthrough in 
+correcting errors in quantum computing
+, a major challenge for the potentially world-shaking technology. (FT)
+Apple reportedly believes it’s close to bringing 
+noninvasive blood glucose testing
+ to the Apple Watch, which would be a boon for diabetic users. (Bloomberg)
+The Oscars is planning to have a 
+“crisis team”
+ at the ceremony, to handle any surprises, after Will Smith slapped Chris Rock on air last year. (Variety)
+Image
+We’d like your feedback! Please email thoughts and suggestions to 
+dealbook@nytimes.com
+.

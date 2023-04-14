@@ -1,0 +1,37 @@
+Teachers:
+ We also have a 
+related lesson plan
+ about teaching and learning with ChatGPT.
+Have you heard of 
+ChatGPT,
+ a powerful new A.I. chatbot that was released to the public in November? Have you tried it? What did you think?
+Are you a student in a place that has banned this new tool, or are your teachers open to experimenting with it? Do you think ChatGPT can be used productively and ethically in schools, or do you think it is dangerous? Why?
+In “
+Don’t Ban ChatGPT in Schools. Teach With It.
+,” Kevin Roose argues that schools should consider the technology as a teaching aid. He writes:
+ChatGPT is new — it was released in late November — but it has already sent many educators into a panic. Students are using it to write their assignments, passing off A.I.-generated essays and problem sets as their own. Teachers and school administrators have been scrambling to catch students using the tool to cheat, and they are fretting about the havoc ChatGPT could wreak on their lesson plans. (Some publications have 
+declared
+, perhaps a bit prematurely, that ChatGPT has killed homework altogether.)
+Cheating is the immediate, practical fear, along with the bot’s propensity to spit out wrong or misleading answers. But there are existential worries, too. One high school teacher told me that he used ChatGPT to evaluate a few of his students’ papers, and that the app had provided more detailed and useful feedback on them than he would have, in a tiny fraction of the time.
+“Am I even necessary now?” he asked me, only half joking.
+Some schools have responded to ChatGPT by cracking down. New York City public schools, for example, recently 
+blocked ChatGPT access
+ on school computers and networks, citing “concerns about negative impacts on student learning, and concerns regarding the safety and accuracy of content.” Schools in other cities, including Seattle, have also restricted access. (Tim Robinson, a spokesman for Seattle Public Schools, told me that ChatGPT was blocked on school devices in December, “along with five other cheating tools.”)
+It’s easy to understand why educators feel threatened. ChatGPT is a freakishly capable tool that landed in their midst with no warning, and it performs reasonably well across a wide variety of tasks and academic subjects. There are legitimate questions about the ethics of A.I.-generated writing, and concerns about whether the answers ChatGPT gives are accurate. (Often, they’re not.) And I’m sympathetic to teachers who feel that they have enough to worry about, without adding A.I.-generated homework to the mix.
+But after talking with dozens of educators over the past few weeks, I’ve come around to the view that banning ChatGPT from the classroom is the wrong move.
+Instead, I believe schools should thoughtfully embrace ChatGPT as a teaching aid — one that could unlock student creativity, offer personalized tutoring, and better prepare students to work alongside A.I. systems as adults.
+Students, read the 
+entire article
+, then tell us:
+Have you experimented with ChatGPT, whether in school or on your own? What did you think? How promising or useful do you think it is? Why?
+Why do you think many educators are worried about it? The New York City school system, for instance, has 
+blocked access
+ to the program for fear of “negative impacts on student learning, and concerns regarding the safety and accuracy of content.” Do you agree? What “negative impacts” can you imagine? What, if anything, worries you about this tool?
+This article argues that ChatGPT’s potential as an educational tool outweighs its risks. How do you feel? Should teachers “thoughtfully embrace” this technology? If so, what could that look like? For example, how would you imagine using the chatbot on an upcoming assignment in a way that supports your learning?
+Some educators say the threat of widespread student cheating means the end of classroom practices such as assigning homework, take-home tests and essays. Do you agree? Or, do you think those activities can be reimagined to incorporate the use of chatbots? If so, would that be a good thing? Why or why not?
+Now that you have thought through many related questions, imagine you are the person in charge of setting the rules around using tools like ChatGPT for your school. What would your policy be? Why?
+Students 13 and older in the United States and Britain, and 16 and older elsewhere, are invited to comment. All comments are moderated by the Learning Network staff, but please keep in mind that once your comment is accepted, it will be made public and may appear in print.
+Find more Student Opinion questions here.
+ Teachers, 
+check out this guide
+ to learn how you can incorporate these prompts into your classroom.

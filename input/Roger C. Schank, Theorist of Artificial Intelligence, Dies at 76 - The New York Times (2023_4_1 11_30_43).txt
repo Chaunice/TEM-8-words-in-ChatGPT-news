@@ -1,0 +1,44 @@
+Roger C. Schank, a scientist who made influential contributions to the field of artificial intelligence and then, as an academic, author and entrepreneur, focused on how people learn, died on Jan. 29 in Shelburne, Vt. He was 76.
+His wife, Annie Schank, said the cause was heart failure. She added that Dr. Schank, who lived in Quebec, had been in failing health for more than a year.
+Dr. Schank’s research combined linguistics, cognitive science and computing. In a 1995 essay, he described the common theme of his varied projects in academics and business as “trying to understand the nature of the human mind” and “building models of the human mind on the computer.”
+In the late 1960s and ’70s, Dr. Schank developed ideas for how to represent in symbols for a computer simple concepts — like people and places, objects and events, cause-and-effect relationships — that humans describe with words. His model was called “conceptual dependency theory.”
+Dr. Schank later came up with ways to assemble this raw material of knowledge into the equivalent of human memories of past experience. He called these larger building blocks of knowledge “scripts” and regarded them as ingredients for learning from examples, or “case-based reasoning.”
+“When I was a graduate student in the late 1970s, Roger Schank was required reading,” Steven Pinker, a cognitive psychologist at Harvard University, wrote on 
+a memorial website
+. “He was regarded as one of the major researchers and theoreticians in artificial intelligence and cognitive science.”
+But Dr. Schank’s ideas were introduced in the early days of A.I., when computers were big, slow and expensive. Trying to program a computer to execute his ideas proved impractical. And eventually, progress in A.I. came from statistical pattern-matching instead of from seeking to teach computers to reason as people do.
+Especially over the past decade, the statistical pattern-matching path — fueled by vast stores of data and lightning-fast computers — has delivered striking gains.
+The newly famous 
+ChatGPT
+, a giant software program that digests digital text from websites, books, news articles and Wikipedia entries, is a good example. When someone types in a question or request, ChatGPT’s powerful pattern-matching algorithms can generate poems, speeches and homework papers with remarkable, human-seeming fluency. But an A.I. program like ChatGPT has no semblance of common sense or real-world understanding, so it can also produce bizarre mistakes, racist and sexist screeds, and weird rants.
+Editors’ Picks
+A Movie Confronts Germany’s Other Genocide
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+Continue reading the main story
+Those shortcomings, computer scientists say, could open the door to a revival of the ideas Dr. Schank advocated years ago. Adding facts about the physical world and structured reasoning, they say, could overcome the weaknesses of the new programs, which are called large language models.
+“These models can do amazing things, but they need to be steered,” Kristian Hammond, an A.I. researcher at Northwestern University and a former student of Dr. Schank’s, said by phone. “Roger Schank’s work now has the partner technology, in large language models, to become real.”
+“I think that’s going to end up being part of his legacy,” Dr. Hammond said.
+Roger Carl Schank was born on March 12, 1946, in Manhattan. His father, Maxwell, was an administrator at the New York State Liquor Authority. His mother, Margaret (Rosenberg) Schank, ran a wholesale decorative-bead business.
+Dr. Schank attended public schools in New York and graduated from Stuyvesant High School. He received an undergraduate degree in mathematics from Carnegie Mellon University and a Ph.D. in linguistics from the University of Texas.
+After a stint as an assistant professor at Stanford University, Dr. Schank became a professor of computer science and psychology at Yale University in 1974. In his 15 years there, he served as chairman of the computer science department, became the director of the Yale Artificial Intelligence Project and mentored dozens of students who became A.I. researchers at universities and companies, including the Georgia Institute of Technology and Google.
+Dr. Schank was a prolific author; two of his books for general audiences were selected for The New York Times Book Review’s annual list of “notable books.” “The Cognitive Computer: On Language, Learning, and Artificial Intelligence,” published in 1984 and written with Peter G. Childers, was 
+described 
+by Susan Chace in her Times review as a “clear, funny and smart” account of the problems involved in “trying to get computers to mimic human reasoning.” And 
+the psychologist Robert J. Sternberg
+ called “Tell Me a Story: A New Look at Real and Artificial Memory” (1990) “an impressive book” that shows “we can understand intelligence better by examining people’s behavior in their everyday lives than by giving them trivial test problems.”
+Image
+Dr. Schank’s “The Cognitive Computer” (1984), written with Peter G. Childers, was described by one reviewer as a “clear, funny and smart” account of the problems involved in “trying to get computers to mimic human reasoning.”
+In addition to his wife, Dr. Schank is survived by his daughter, Hana Schank; his son, Joshua Schank; and four grandchildren. His first marriage, to Diane (Levine) Schank, ended in divorce in 1998.
+Outspoken and blustery, Dr. Schank was viewed as an ornery eccentric in A.I. circles. But he was also engaging, articulate and a very effective salesman for his ideas.
+He persuaded Andersen Consulting, and later other corporate sponsors, to provide millions for the Institute for Learning Sciences at Northwestern, which he founded in 1989. The institute was a center for learning research that developed education and training software used by companies, museums and the United States Army.
+Dr. Schank viewed his turn to learning and education software as a practical extension of his research in A.I. and cognition. “The most important thing to understand about the mind,” he wrote in 1995, “is that it’s a learning device.”
+His larger vision, said Ray Bareiss, a computer scientist who worked with Dr. Schank for years, was to reform education. Dr. Schank believed that traditional education, with its lectures, memorization of facts and tests, was broken. People learned best, he insisted, when they acquired knowledge to complete a desired task or accomplish a goal.
+The learning-by-doing formula was an approach Dr. Schank pursued at a few learning start-ups he founded and at Carnegie Mellon’s Silicon Valley campus in Mountain View, Calif., where he was chief education officer from 2001 to 2004. At the Carnegie Mellon outpost, students earned master’s degrees in software engineering, e-commerce and other fields largely through working at Silicon Valley companies.
+Dr. Schank sought out opportunities to work with schools, nonprofits and businesses where he could advance his vision of nontraditional education. In 2005, he joined Trump University as chief learning officer. He left in 2007, after it became clear that the for-profit school was no longer interested in his reform ideas, said Dr. Bareiss, who was not involved with that venture.
+Trump University was shut down in 2011 amid lawsuits, investigations and student complaints.
+Dr. Schank later had a brush with controversy because of his connection to Jeffrey Epstein, the disgraced financier and convicted sex trafficker. Mr. Epstein hosted conferences for scientists at his private island off St. Thomas. Dr. Schank attended one of those gatherings in 2002, and his name surfaced among those of dozens of prominent people who had some kind of contact with Mr. Epstein.
+Dr. Schank also had a home for years in Palm Beach, Fla., as did Mr. Epstein, whom he knew personally and initially defended after his first conviction, in 2008.
+Dr. Schank kept pursuing his goal of education alternatives until shortly before he died. He was chairman of Socratic Arts, a company he founded, of which Dr. Bareiss is a senior vice president, that has developed learn-by-doing online courses used by many companies for worker training. It also has a popular cybersecurity offering, funded by the Department of Defense.
+But Dr. Schank’s ideas for reforming education remain outside the mainstream. The education establishment, Dr. Bareiss said, resists moving away from the lecture-and-test model.
+“The vision of fundamentally changing public education has not been realized,” he said. “But it’s worth trying.”

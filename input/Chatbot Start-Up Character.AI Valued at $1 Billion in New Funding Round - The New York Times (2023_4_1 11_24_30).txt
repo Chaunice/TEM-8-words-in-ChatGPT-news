@@ -1,0 +1,39 @@
+Character.AI, 
+a 16-month-old start-up that builds online chatbots
+, said on Thursday that it had raised $150 million in a recent funding round that valued the company at $1 billion.
+Character.AI is among a tiny group of small companies — along with the tech industry’s giants — that are building technology that could one day rival the systems under development at OpenAI, the San Francisco start-up that incited the artificial intelligence boom 
+with the release of the online chatbot ChatGPT
+.
+These companies have an unusual blend of experienced researchers and outsize ambition, and they require huge amounts of capital. Many experts believe that a handful of companies could dominate work on the new artificial intelligence.
+“One of the concerns I have is that it will be a winner-take-all or a winner-take-most market — that a few big players will really dominate,” said Erik Brynjolfsson, a Stanford University economics professor and a senior fellow at the school’s Institute for Human-Centered AI.
+Venture capitalists are jockeying to invest in the young A.I. companies even as the rest of the tech industry struggles through layoffs, plummeting valuations and an unexpected banking crisis prompted by 
+the failure of Silicon Valley Bank
+.
+Like OpenAI, the new A.I. companies are building 
+large language models
+, or L.L.M.s, a kind of artificial intelligence that learns language skills by analyzing vast amounts of data from across the internet. The technology drives online chatbots like ChatGPT and can power a wide variety of other applications, including search engines, email services and personal tutors.
+L.L.M.s can answer questions, summarize articles, write term papers and even generate computer programs, but only a limited number of companies are prepared to build systems as powerful as those recently released by OpenAI.
+The new funding round in Character.AI., which is based in Palo Alto, Calif., was led by Andreessen Horowitz, one of Silicon Valley’s best known venture capital firms. In December 2021, the company raised $43 million in seed funding.
+While at Google, Character.AI’s founders, Noam Shazeer and Daniel De Freitas, led a team that built a technology called LaMDA, short for Language Model for Dialogue Applications. The chatbot project gained attention last summer when a Google engineer, Blake Lemoine, 
+told The Washington Post that he believed LaMDA was sentient
+.
+Editors’ Picks
+A Movie Confronts Germany’s Other Genocide
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+Continue reading the main story
+By then, Mr. Shazeer and Mr. De Freitas had left Google to create Character.AI. Having built technology similar to LaMDA, the company offers a website where people can chat with 
+a reasonable facsimile of almost anyone, living or dead, real or imagined
+. The underlying technology could power many applications well beyond chatbots, said Sarah Wang, a general partner at Andreessen Horowitz.
+This technology requires enormous amounts of computer processing power. Mike Volpi, a general partner with Index Ventures who has invested in a company similar to Character.AI called Cohere, estimated that such companies required 
+at least $500 million to spend on raw computer power
+.
+OpenAI has raised billions of dollars from Microsoft. Most of that money is being used to buy computing power from Microsoft’s Azure cloud computing service.
+Mr. Shazeer said in an interview that Character.AI would soon raise additional funds from one or more “strategic partners.” That could mean taking investments from cloud computing companies and using the money to buy computing power from those companies.
+Chatbots, Large Language Models and the A.I. Funding Frenzy
+‘Let 1,000 Flowers Bloom’: A.I. Funding Frenzy Escalates
+March 14, 2023
+A.I. Is Becoming More Conversational. But Will It Get More Honest?
+Jan. 10, 2023
+OpenAI Plans to Up the Ante in Tech’s A.I. Race
+March 14, 2023

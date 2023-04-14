@@ -1,0 +1,18 @@
+Microsoft restored access to its email and video conferencing tools on Wednesday after thousands of users were unable to connect to the services for hours.
+The outage, which affected Microsoft 365 products including Outlook and Microsoft Teams, began shortly after 2 a.m. Eastern time. The company said on Twitter around 5 a.m. Eastern time that it had “isolated the problem to a networking configuration issue.”
+At 7:45 a.m., 
+the company said
+ all of its services were available.
+The programs are crucial for many businesses, who were temporarily left without key communication services. The company did not say how many users were affected, but 
+thousands of people reported outages
+, with some people grousing on social media.
+Microsoft announced its latest quarterly earnings on Tuesday, reporting its 
+slowest growth in six years
+, with profit falling 12 percent and revenue rising 2 percent from a year earlier; both figures fell below Wall Street expectations. The earnings report came after the tech giant said it was making a “multiyear, multibillion-dollar” investment in OpenAI, the start-up that designed the chatbot 
+ChatGPT
+, as 
+Microsoft
+ seeks to push artificial intelligence technology further and compete with rivals like Amazon, Apple and Google.
+The company 
+announced last week
+ that it would lay off 10,000 employees, less than five percent of its payroll.

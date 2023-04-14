@@ -1,0 +1,84 @@
+For all the talk about the transformative nature of new technology called generative artificial intelligence, some of the earlier commercial uses may be far more prosaic: formatting a PowerPoint slide, summarizing a call or writing to-do lists.
+Many of the first broad applications of generative A.I. have burst into the realm of the consumer internet, with open-ended chats and more sophisticated versions of internet search. But announcements this week by Microsoft and Google about adding A.I. into the daily tools of knowledge workers and software developers show how the mundane — but very profitable — software for businesses may be the clearest moneymakers.
+“As we look ahead, we believe this next generation of A.I. will unlock a new wave of productivity growth,” Satya Nadella, Microsoft’s chief executive, said while announcing a set of tools Thursday. He added that new features would “remove the drudgery from our daily tasks and jobs.”
+The new tools are more sober than visions of how generative A.I. might evolve or upend Google’s search engine, used by billions of people, but they form a crucial part of Google’s and Microsoft’s strategies to cash in on their A.I. investments.
+Microsoft has made a series of announcements describing how it plans to push A.I. into all corners of its business. It has committed 
+$13 billion into its partnership
+ with the start-up OpenAI, whose ChatGPT chatbot captured the public imagination 
+when it was released at the end of November
+. Just over a month ago, Microsoft also integrated OpenAI’s models into its Bing search engine.
+Image
+Microsoft released a new A.I. assistant in Word that can summarize text and write new documents from existing information.
+Credit...
+via Microsoft
+Thursday’s announcement cuts to the heart of some of Microsoft’s largest businesses, in products like its software suite that includes Word, Excel and Outlook. Office products and related cloud services 
+produced
+ $11.8 billion in revenue in Microsoft’s latest quarter, while search and news advertising generated about $3.2 billion in sales.
+A New Generation of Chatbots
+Card 1 of 5
+A brave new world. 
+A new crop of chatbots powered by artificial intelligence has ignited a scramble to determine whether the technology 
+could upend the economics of the internet
+, turning today’s powerhouses into has-beens and creating the industry’s next giants. Here are the bots to know:
+ChatGPT. 
+ChatGPT, the artificial intelligence language model from a research lab, OpenAI, has been making headlines since November for its ability to respond to complex questions, write poetry, generate code, 
+plan vacations
+ and translate languages. GPT-4, the latest version introduced in mid-March, 
+can even respond to images
+ (and ace the Uniform Bar Exam).
+Bing. 
+Two months after ChatGPT’s debut, Microsoft, OpenAI’s primary investor and partner, 
+added a similar chatbot
+, capable of having open-ended text conversations on virtually any topic, to its Bing internet search engine. But it was the bot’s occasionally inaccurate, misleading and 
+weird responses
+ that drew much of the attention after its release.
+Bard. 
+Google’s chatbot, called Bard, 
+was released in March
+ to a limited number of users in the United States and Britain. Originally conceived as a creative tool designed to draft emails and poems, it can generate ideas, write blog posts and 
+answer questions with facts or opinions
+.
+Ernie. 
+The search giant Baidu unveiled China’s first major rival to ChatGPT in March. The debut of Ernie, short for Enhanced Representation through Knowledge Integration, 
+turned out to be a flop
+ after a promised “live” demonstration of the bot was revealed to have been recorded.
+Microsoft focused on integrating A.I. assistants, which it calls Copilots, into software. It is drawing on data that business customers have already stored in the company’s systems — chats in its collaboration tool Teams, documents stored in its cloud and emails on its servers.
+With Business Chat, a new feature for working across the tools, someone can ask for a customer update and it will scan recent emails, meeting notes and other information to generate a response.
+Editors’ Picks
+A Movie Confronts Germany’s Other Genocide
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+Continue reading the main story
+The products are being tested by 20 business customers, and pricing and licensing details will be released in the coming weeks, Jared Spataro, a Microsoft executive, said in an interview.
+The assistants produce sample text, but Microsoft stressed that users should review and tweak the results. When generating text, the Copilot may make mistakes or generate irrelevant information.
+It can also suggest feelings or emotions. One executive 
+showed
+ how the Copilot in Word could write a personal speech celebrating her daughter’s high school graduation. “In summary, to say we are proud of Tasha would be an understatement,” the model proposed.
+As Mr. Spataro demonstrated how he could use the assistant to generate an email providing his feedback on a draft of a blog post, the A.I. tool generated an email that said Mr. Spataro was “impressed” and had made minor grammatical changes to the post — though it had no way of knowing whether he was “impressed” or that the changes were only grammatical.
+“It doesn’t know at all,” Mr. Spataro said when asked about it. He said the email should be edited, adding, “I mean, this is an example of why we called it a Copilot
+.”
+Last month, Microsoft pulled back some of the new Bing’s functions after its chat produced inaccurate, bizarre and 
+at times creepy results
+. The new Bing had “millions of active users” in its first month, about a third of whom had not used Bing before, the company 
+said
+. The company has said it will experiment with how to integrate ads into the results.
+Microsoft has been jockeying with Google, which has said its chatbot, Bard, will be released in the “coming weeks” as an experimental demonstration. But Dan Taylor, Google’s vice president of global ads, said in an interview last month that the company had 
+not yet figured out
+ a way to make money from the chatbot.
+In an 
+announcement on Tuesday
+, Google underscored a similar path to generate profit from A.I. technology: by incorporating it into software that businesses pay for, and selling the underlying A.I. to other organizations.
+Google said it would embed A.I. into its email and word-processing tools, Gmail and Docs, so that it could draft emails, job descriptions and other types of documents from simple written prompts. With a few clicks, Google said, users could then adjust the tone to be more playful or professional, and have the A.I. trim or expand on the content. The features will first be available to what the company called trusted users.
+Thomas Kurian, the chief executive of Google Cloud, which sells software and services to other businesses, said in a blog post that generative A.I. was a generational shift in technology, akin to the move from desktop computing to mobile devices. Powered by a system known as a large language model, the A.I. can generate text and other media when given short prompts.
+Just as software developers flocked to develop applications for the iPhone, Google expects that many programmers will want to build new A.I. applications and businesses. Mr. Kurian said the company would offer two new products, PaLM API and MakerSuite, to aid their efforts.
+Google also debuted Generative AI App Builder, a tool to help businesses and governments quickly develop their own chatbots. The company will also let organizations customize A.I. with their own data through an existing product, Vertex AI.
+Building large language models is an expensive enterprise requiring rare and specialized engineers, and supercomputers built specifically to handle the processing demands. Most companies will not have the resources to replicate Google’s, Microsoft’s or OpenAI’s years of work building these systems, so the companies are racing to fulfill their demand.
+Mr. Kurian said he expected this generation of A.I. to have “a profound effect on every industry.”
+Cade Metz contributed reporting.
+Releasing A.I. Products
+A Tech Race Begins as Microsoft Adds A.I. to Its Search Engine
+Feb. 7, 2023
+The Chatbots Are Here, and the Internet Industry Is in a Tizzy
+March 8, 2023
+Racing to Catch Up With ChatGPT, Google Plans Release of Its Own Chatbot
+Feb. 6, 2023

@@ -1,0 +1,49 @@
+Imagine a world where autonomous weapons roam the streets, decisions about your life are made by AI systems that perpetuate societal biases and hackers use AI to launch devastating cyberattacks. This dystopian future may sound like science fiction, but the truth is that without proper regulations for the development and deployment of Artificial Intelligence (AI), it could become a reality. The rapid advancements in AI technology have made it clear that the time to act is now to ensure that AI is used in ways that are safe, ethical and beneficial for society. Failure to do so could lead to a future where the risks of AI far outweigh its benefits.
+I didn’t write the above paragraph. It was generated in a few seconds by an A.I. program called ChatGPT, which is available on the internet. I simply logged into the program and entered the following prompt: “Write an attention grabbing first paragraph of an Op-Ed on why artificial intelligence should be regulated.”
+I was surprised at how ChatGPT effectively drafted a compelling argument that reflected my views on A.I., and so quickly. As one of just three members of Congress with a computer science degree, I am enthralled by A.I. and excited about the incredible ways it will continue to advance society. And as a member of Congress, I am freaked out by A.I., specifically A.I. that is left unchecked and unregulated.
+A.I. is part of our daily life. It gives us instantaneous search results, helps us navigate unfamiliar roads, recommends songs we might like and can improve almost any task you can imagine. A.I. is embedded in systems that help prevent fraud on your credit card, predict the weather and allow early detection of diseases. A.I. thinks exponentially faster than humans, can analyze orders of magnitude more data than we can and sees patterns the human mind would never see.
+At the same time, A.I. has caused harm. Some of the harm is merely disruptive. Teachers (and newspaper editors) might find it increasingly difficult to determine if a written document was created by A.I. or a human. Deep fake technology can create videos and photographs that look real.
+But some of the harm could be deadly. Tesla’s “full self-driving” A.I. feature apparently malfunctioned last Thanksgiving in a car in San Francisco’s Yerba Buena Tunnel, causing the car to suddenly stop and resulting in a multicar accident. The exact cause of the accident has not been fully established, but nine people were injured as a result of the crash.
+A.I. algorithms in social media have helped radicalize foreign terrorists and domestic white supremacists.
+And some of the harm can cause widespread discrimination. Facial recognition systems used by law enforcement are less accurate for people with darker skin, resulting in possible misidentification of innocent minorities.
+Private entities such as the Los Angeles Football Club and Madison Square Garden Entertainment already are deploying A.I. facial recognition systems. The football (professional soccer) club 
+uses it
+ for its team and staff. Recently, Madison Square Garden used facial recognition to 
+ban lawyers
+ from entering the venue who worked at firms representing clients in litigation against M.S.G. Left unregulated, facial recognition can result in an intrusive public and private surveillance state, where both the government and private corporations can know exactly where you are and what you are doing.
+Editors’ Picks
+A Movie Confronts Germany’s Other Genocide
+Gego: Drawing in Space at the Guggenheim
+Millennials Pay for a Dose of ’90s Nostalgia
+Continue reading the main story
+Last year, I introduced legislation to regulate the use of facial recognition systems by law enforcement. It took me and my staff over two years working with privacy and technology experts to do so — and building the coalition of support needed to pass this bill will take more time. Again, my bill is for just one application of A.I. It would be virtually impossible for Congress to pass individual laws to regulate each specific use of A.I.
+What we need is a dedicated agency to regulate A.I. An agency is nimbler than the legislative process, is staffed with experts and can reverse its decisions if it makes an error. Creating such an agency will be a difficult and huge undertaking because A.I. is complicated and still not well understood.
+But there is precedent for establishing a necessary agency to protect people from harm. How molecules interact with millions of unique human beings is a complicated subject and not well understood. Yet we created an agency — the Food and Drug Administration — to regulate pharmaceutical drugs.
+Going from virtually zero regulation of A.I. to an entire federal agency would not pass Congress. This critical and necessary endeavor needs to proceed in steps. That’s why I will be introducing legislation to create a nonpartisan A.I. Commission to provide recommendations on how to structure a federal agency to regulate A.I., what types of A.I. should be regulated and what standards should apply.
+We may not need to regulate the A.I. in a smart toaster, but we should regulate it in an autonomous car that can go over 100 miles per hour. The National Institute of Standards and Technology 
+has released a second draft
+ of its AI Risk Management Framework. In it, NIST outlines the ways in which organizations, industries and society can manage and mitigate the risks of A.I., like addressing algorithmic biases and prioritizing transparency to stakeholders. These are nonbinding suggestions, however, and do not contain compliance mechanisms. That is why we must build on the great work already being done by NIST and create a regulatory infrastructure for A.I.
+Congress has been slow to react when it comes to technological issues. But things are changing. We now have more members who are fluent in technology because they grew up with it, and we also have members like Representative Don Beyer, who is pursuing a master’s in machine learning. Having more members who recognize the promise of this technology — and its potential harms — will serve us well as we tackle this challenge.
+The fourth industrial revolution is here. We can harness and regulate A.I. to create a more utopian society or risk having an unchecked, unregulated A.I. push us toward a more dystopian future. And yes, I wrote this paragraph.
+More on A.I.
+A New Area of A.I. Booms, Even Amid the Tech Gloom
+Jan. 7, 2023
+How Smart Are the Robots Getting?
+Jan. 20, 2023
+Did Artificial Intelligence Just Get Too Smart?
+Dec. 16, 2022
+Ted W. Lieu represents California’s 36th Congressional District in the U.S. House of Representatives.
+The Times is committed to publishing 
+a diversity of letters
+ to the editor. We’d like to hear what you think about this or any of our articles. Here are some 
+tips
+. And here’s our email: 
+letters@nytimes.com
+.
+Follow The New York Times Opinion section on 
+Facebook
+, 
+Twitter (@NYTopinion)
+ and 
+Instagram
+.
